@@ -1,0 +1,25 @@
+<Chapter>
+	<Handle>Base Defence</Handle>
+	<Title>Tukikohdan puolustus</Title>
+	<Icon>>ARTHER Turret</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tukikohdan puolustus</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Turret</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Voimme nyt tuoda VAPAUDEN t‰lle planeetalle!</Text>  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Tukikohtamme puolustustutkimus on onnistunut. Nyt meill‰ on kolme tykkitornia valmistettavana. AVUTIN-tykki on virtatehokas ja sill‰ on pitk‰ kantama mutta AVUTIN:n pit‰‰ k‰ytt‰‰ sit‰ joten meid‰n tulisi asemoida se houlellisesti suojellaksemme resurssiinfrastructuuriamme kun ker‰‰mme materiaaleja, joita tarvitaan rakentaamaan ja pit‰m‰‰n p‰‰ll‰ itsen‰isi‰ tykkitorneja.</Text>  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

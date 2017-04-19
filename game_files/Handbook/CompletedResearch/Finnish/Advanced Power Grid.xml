@@ -1,0 +1,25 @@
+<Chapter>
+	<Handle>T3 Power</Handle>
+	<Title>Kehittynyt voimaverkko</Title>
+	<Icon>Kehittynyt voimaverkko</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kehittynyt voimaverkko</Text>
+				</Title>
+				<Icon>
+					<Name>Advanced Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Olemme tehneet lisäparannuksia voimainfrastruktuuriimme, mukaan lukien uusi voimavarastointilohko ja laaserenergialähetin.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Meillä on myös alustavia suunitelmia uudentyypiselle voimalalle, kuitenkin viimeistelläksemme tämän tutkimuksen tarvitsemme tiivimmän energialähteen kuin hiili, johon olemme turvanneet tähän asti.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>
