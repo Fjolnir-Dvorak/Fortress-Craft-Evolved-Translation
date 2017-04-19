@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Väkämerkki</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Väkämerkki</Text>
+				</Title>
+				<Icon>
+					<Name>Chevron Sign</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Punainen ja musta muolimerkiotty palikka jota voi tuottaa kaikialla vaatimatta valmistusaseman palveluja. Avaa itsevalmistuskäyttöliittymä (oletus 'C') valmistaaksesi näitä.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

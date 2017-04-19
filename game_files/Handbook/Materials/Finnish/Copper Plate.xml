@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Kuparilaatta</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kuparilaatta</Text>
+				</Title>
+				<Icon>
+					<Name>Copper Plate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertainen kuparilaatta on tehry kupariharkoista leimausasemalla.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

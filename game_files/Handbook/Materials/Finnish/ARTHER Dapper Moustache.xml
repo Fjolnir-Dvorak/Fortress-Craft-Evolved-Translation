@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>AVUTIN-silotteluviikset</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>AVUTIN-silotteluviikset Moustache</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Dapper Moustache</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Lisää 'viiksi hupailu' vitsi tähän. Toimii vain silottelupakkauslataussisällön yhteydessä. Tarvitset vain yhden ja täytyy åitää tavaraluettelossa toimiakseen.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

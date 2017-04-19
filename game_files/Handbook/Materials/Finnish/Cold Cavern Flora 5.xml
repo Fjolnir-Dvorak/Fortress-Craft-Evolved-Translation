@@ -1,0 +1,23 @@
+<MaterialEntry>
+	<Name>Kylm‰luolakasvi 5</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kylm‰luolakasvi 5</Text>
+				</Title>
+				<Icon>
+					<Name>Cold Cavern Flora 5</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>T‰m‰ ihmeellinen kasvi selvi‰‰ kym‰luolan ‰‰rimm‰isiss‰ oloissa.</Text>
+				</Paragraph>		
+				<Spacer/>
+				<Paragraph>
+					<Text>T‰m‰n kasvin voi polttaa virrantuotannossa.</Text>
+				</Paragraph>		
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

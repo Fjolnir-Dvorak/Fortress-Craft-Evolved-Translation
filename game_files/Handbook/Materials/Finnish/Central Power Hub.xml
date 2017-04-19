@@ -1,0 +1,47 @@
+<MaterialEntry>
+	<Name>Keskusvoimala</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Keskusvoimala</Text>
+				</Title>
+				<Icon>
+					<Name>Central Power Hub</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Keskusvoimala on tukikohtasi tärkein kone. Se on liian kehittynyt toistettavaksi ja et coit selvitä ilman sitä tässä maailmassa joten sinun täytyy suojella sitä millä hinnalla tahansa.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Energiantuotanto</Text>
+				</Header>			
+				<Paragraph>
+					<Text>Keskusvoimala sisältää suuren sisäisen akun joka voi varastoida energiaa sen aurinkopaneeleista ja pienestä fossiilivoimalasta sen sisällä. Tilaa on vain yhdelle yksikölle polttoainetta kerrallaan joten polttoaineen kuljetuksen automatisointia varastohypytintä tai pienhypytintä käyttäean pitäisi selvitellä mahdollisimman pian.</Text>
+				</Paragraph>
+				<Spacer />
+				<Paragraph>
+					<Text>Keskusvoimala puskee energiaa automaattisesti ympäröiviin koneisiin jotka tarvitsevat sitä. Voit myös lisätä tai ottaa energiaa siitä suoraan vuorovaikuttamalla sen kanssa (oletus 'E'). Tämä ohjauspaneeli mahdollistaa polttoaineen asettamisen voimalaan.</Text>
+				</Paragraph>				
+				<Header>
+					<Text>Kiertoratalaaser</Text>
+				</Header>
+				<Paragraph>
+					<Text>Keskusvoimalan päällä olevaa laseria voi käyttää maamerkkinä tukikohdan löytämisessä. Ole kuitenkin varovainen ettet asettele palikoita sen lähelle tai ne voivat tuhoutua.</Text>
+				</Paragraph>
+
+			</Paragraphs>
+		</Page>	
+		<Page>
+			<Paragraphs>	
+			<Header>
+					<Text>Tietokonejärjestelmät</Text>
+				</Header>
+				<Paragraph>
+					<Text>Keskusvoimala sisältää useimmat tietojärjestelmä jot ka ohjaavat tukikohtaasi. Ohjaussignaaleja voidaan lähettä langattomasti, koodattuina voima- ja ainesiirto säteisiin sekä kuljetinlinjoja pitkin. Pukusi vahvistaa langatonta yhteyttä. Jos kuitenkin löydät eristetyn kaukaisen koneen joka sammuu harkitse peruslaaser lähetin linjan rakentamista.</Text>
+				</Paragraph>	
+			</Paragraphs>
+		</Page>	
+	</Pages>
+</MaterialEntry>
+

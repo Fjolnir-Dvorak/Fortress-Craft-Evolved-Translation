@@ -1,0 +1,37 @@
+<MaterialEntry>
+	<Name>Peruskokeilukapseli</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Peruskokeilukapseli</Text>
+				</Title>
+				<Icon>
+					<Name>ResearchPod_Basic</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Peruskokeilukapselia k‰ytet‰‰n laboratoriossa kokeiden ja tutkimusprojektien tekemiseen. N‰m‰ kapselit tehd‰‰n kuparista. Lis‰informaatiota laboratoriotutkimuksesta seuraavassa oppaassa..</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratoriotutkimus</Text>
+				</Link>
+				<Spacer />
+				<Paragraph>
+					<Text>Lis‰informaatiota kokeilukapselien teosta seuraavassa oppaassa.</Text>
+				</Paragraph>				
+				<Link>
+					<Target>
+						<Chapter>experimental pods</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Kokeilukapselit</Text>
+				</Link>		
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

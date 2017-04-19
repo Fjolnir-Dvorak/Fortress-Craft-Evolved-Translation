@@ -1,0 +1,123 @@
+<MaterialEntry>
+	<Name>Peruskaivosvaunu</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Peruskaivosvaunu</Text>
+				</Title>
+				<Icon>
+					<Name>Minecart</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Minecarts are for Bulk transfers of items at a medium rate.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Maksimi nopeus:
+					Maksimi varasto:
+					Kiihdytys:
+					</Left>
+					<Right>1m/s
+					25
+					0.5m/s/s
+					16
+					15 sekuntia</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Kaivosvaunun käyttäminen on suoraviivaista ja yksinkertaisesti laajentaa hypytin -> kuljetin paradigmaa jota on käytetty tähän asti. Kaivosvaunut ladataan kavisovaunuverkkon kaivosvaunuvarikolta.</Text>>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Minecart Depot</Material>
+					</Target>
+					<Text>Kaivosvaunuvarikko</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kaivosvaunu resurssien käsittely</Text>
+				</Title>
+
+				<Paragraph>
+					<Text>Olessaan kaivusvaunuverkostossasi kaivosvaunut pysähtyvät lastaus ja purku asemille ja keräävät ja tiputtavat kannetut resurssit.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Icon>
+					<Name>Minecart Load</Name>
+					<Target><Material>MinecartLoadStation</Material></Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>MinecartLoadStation</Material>
+					</Target>
+					<Text>Kaisvosvaunulastaus</Text>
+				</Link>
+				<Icon>
+					<Name>Minecart Unload</Name>
+					<Target><Material>MinecartUnloadStation</Material></Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>MinecartUnloadStation</Material>
+					</Target>
+					<Text>Kaivosvaunu purku</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+			<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kehittyneet kaivosvaunun ohjaimet</Text>
+				</Title>
+				<Spacer/>
+				<Paragraph>
+					<Text>Tarkempaan kaivosvaunujen liikumisen ja malminkuljetuksen ohjaukseen sinulla on monta työkalua saatavilla käyttäytymisen ja päätöksenteon muuttamiseen.</Text>
+				</Paragraph>
+				<Icon>
+					<Name>Minecart Turbo Rail</Name>
+					<Target><Material>Minecart Turbo Rail</Material></Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Turbo Rail</Material>
+					</Target>
+					<Text>Kaivosvaunu kiihdytysliuska</Text>
+				</Link>
+				<Spacer/>
+				<Icon>
+					<Name>MinecartBufferFull</Name>
+					<Target><Material>MinecartBufferFull</Material></Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Täyden kaivosvaunun portti</Material>
+					</Target>
+					<Text>Minecart Full Gate</Text>
+				</Link>
+				<Spacer/>
+				<Icon>
+					<Name>MinecartBufferEmpty</Name>
+					<Target><Material>MinecartBufferEmpty</Material></Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Empty Gate</Material>
+					</Target>
+					<Text>Tyhjän kaivosvaunun portti</Text>
+				</Link>
+				<Spacer/>
+
+		
+			</Paragraphs>
+		</Page>
+	
+	</Pages>
+</MaterialEntry>

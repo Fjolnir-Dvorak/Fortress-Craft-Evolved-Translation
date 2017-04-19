@@ -1,0 +1,23 @@
+<MaterialEntry>
+	<Name>Kupariharkko</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kupariharkko</Text>
+				</Title>
+				<Icon>
+					<Name>Copper Bar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Icon>
+					<Name>Copper Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Kupariharkkoja käytetään useissa koneissa ja elekronisissa osissa. Niitä tehdään kuparimalmista jota v oi löytää pinnan läheltä.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

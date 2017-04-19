@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Kuparikela</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kuparikela</Text>
+				</Title>
+				<Icon>
+					<Name>Copper Coil</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertainen kuparikela on tehty kelausasemlla kuparilangasta.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

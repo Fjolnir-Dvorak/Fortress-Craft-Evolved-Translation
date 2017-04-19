@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Tyhjä metalliputki</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tyhjä metalliputki</Text>
+				</Title>
+				<Icon>
+					<Name>Empty Metal Tube</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertainen mutta vahva raudasta tehty metalliputki.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

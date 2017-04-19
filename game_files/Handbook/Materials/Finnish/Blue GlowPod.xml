@@ -1,0 +1,23 @@
+<MaterialEntry>
+	<Name>Sininen hohkopalko</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Sininen hohtopalko</Text>
+				</Title>
+				<Icon>
+					<Name>Blue GlowPod</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>T‰m‰ paikallinen kasvilaji l‰hett‰‰ tasaista sinist‰ hehkua kasin pinanna alla tahtuvan kemikaalisen reaktion takia.</Text>
+				</Paragraph>		
+				<Spacer/>
+				<Paragraph>
+					<Text>T‰m‰ kasvi voidaan polttaa virran tuottamiseksi.</Text>
+				</Paragraph>		
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

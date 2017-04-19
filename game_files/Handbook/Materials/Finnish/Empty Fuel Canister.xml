@@ -1,0 +1,25 @@
+<MaterialEntry>
+	<Name>Tyhjä polttoainekanisteri</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tyhjäpolttoainekanisteri</Text>
+				</Title>
+				<Icon>
+					<Name>EmptyCanister</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Polttoainekanisterissa  voi säilöä polttoaineita. Kierrättämällä kanisteri voidaan välttyä turhalta luonnon pilaamiselta.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Refinery Controller</Material>
+					</Target>
+					<Text>Jalostamo-ohjain</Text>
+				</Link>		
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

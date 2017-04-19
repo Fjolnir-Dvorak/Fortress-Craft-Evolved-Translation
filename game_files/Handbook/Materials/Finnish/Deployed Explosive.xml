@@ -1,0 +1,36 @@
+<MaterialEntry>
+	<Name>Asennettu r‰j‰hde</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Asennettu r‰j‰hde</Text>
+				</Title>
+				<Icon>
+					<Name>Deployed Explosive</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ladattava pommi lataustason mukaan laajenevalla r‰j‰hdyss‰teell‰</Text>
+				</Paragraph>
+				<Header>
+					<Text>Vinkkej‰ ja temppuja!</Text>
+				</Header>
+				<Paragraph><Text>- T‰m‰ kone vaatii enenev‰ss‰ m‰‰rin virtaa!</Text></Paragraph>
+				<Paragraph><Text>- Taso 1 = 100 energiaa.</Text></Paragraph>
+				<Paragraph><Text>- Taso 2 = 1000 energiaa.</Text></Paragraph>
+				<Paragraph><Text>- Taso 3 = 10 000 energiaa.</Text></Paragraph>
+				<Paragraph><Text>- Taso 4 = 100 000 energiaa.</Text></Paragraph>
+				<Paragraph><Text>- Taso 5 = 1 000 000 energiaa.</Text></Paragraph>
+				<Paragraph><Text>- Taso 6 = 10 000 000 energy.</Text></Paragraph>
+				<Paragraph><Text>- ja niin edelleen!</Text></Paragraph>
+				<Paragraph><Text>- V‰litason energia ei anna lis‰r‰j‰hdyss‰dett‰!</Text></Paragraph>
+				<Paragraph><Text>- Tason 6 saavuttaminen nykyisill‰ toteutetuilla energiatuotannolla on jo haaste!</Text></Paragraph>
+				<Header>
+					<Text>Varoitus!</Text>
+				</Header>
+				<Paragraph><Text>Sytytyslanka on lyhyt! Tukikohdan r‰j‰ytt‰minen vahingossa on juttu!</Text></Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,26 @@
+<MaterialEntry>
+	<Name>Kidekello</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kidekello</Text>
+				</Title>
+				<Icon>
+					<Name>Crystal Clock</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Kidekello on yleinen tuotantoaines kehittyneess‰ koneistossa. Kidekello sis‰llytt‰minen koneistoon sallii tarkemman ajoituksen kuin mit‰ normaalista olisi mahdolista. Kidekellot tehd‰‰‰n 5 kristalliesiintym‰st‰ kidekellontekij‰ss‰. Tavalliset kidekellot voi ylikellottaa tuottamaan tehokkaampia kelloja viel‰ kehittyneemp‰‰n koneistoon.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Crystal Clock Maker</Material>
+					</Target>
+					<Text>Kidekellontekij‰</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

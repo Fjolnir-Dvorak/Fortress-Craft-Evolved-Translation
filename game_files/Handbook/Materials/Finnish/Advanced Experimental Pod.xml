@@ -1,0 +1,37 @@
+<MaterialEntry>
+	<Name>Kehittynyt koekapseli</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kehittynyt koekapseli</Text>
+				</Title>
+				<Icon>
+					<Name>ResearchPod_Advanced</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Kehittynytt‰ koekapselia k‰ytett‰‰n laboratotiassa koekeiden ja tutkimusprojektien tekemiseen. N‰m‰ kapselit tehd‰‰n kullasta. Lis‰informaatiota laboratoriotutkimuksesta seuraavassa oppaassa.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratoriotutkimus</Text>
+				</Link>
+				<Spacer />
+				<Paragraph>
+					<Text>Lis‰tietoa tutkimuskapselien tekemisest‰ seuraavassa oppaassa.</Text>
+				</Paragraph>				
+				<Link>
+					<Target>
+						<Chapter>experimental pods</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Koekapselit</Text>
+				</Link>		
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,33 @@
+<MaterialEntry>
+	<Name>Mallin 3 rakennuspyssy</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mallin 3 rakennnuspyssy</Text>
+				</Title>
+				<Icon>
+					<Name>Build Gun V3</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Mallin 3 rakennuspyssy on lisäparannys jo päivitettyyn rakennuspyssyyn upgraded Build Gun. Tämä päivitys antaa sopivan viilennyksen nopean jatkuvan tartuntakoukun käyttöön. Jäähdytyskapasiteetin lisäksi mallin 3 rakennuspyssy mahdollistaa kovempien materiaalien tuhoamisen ja kehittyneempien koneiden purkamisen. Vain yksi päivityksistä vaaditaan pyssyn toiminnan parantamiseksi lisäpäivitykset eivät anna lisähyötyjjä ilman merkittäviä menetyksiä tässä vaiheessa.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Build Gun V1</Material>
+					</Target>
+					<Text>Mallin 1 rakennuspyssy</Text>
+				</Link>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Build Gun V2</Material>
+					</Target>
+					<Text>Mallin 2 rakennuspyssy</Text>
+				</Link>					
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

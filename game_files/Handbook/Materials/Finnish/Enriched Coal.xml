@@ -1,0 +1,26 @@
+<MaterialEntry>
+	<Name>Rikastettu hiili</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Rikastettu hiili</Text>
+				</Title>
+				<Icon>
+					<Name>Enriched Coal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Rikastettu hiili on orgaanisen hiilenrikastajan tuote. Rikastettu hiili on parannus tavalliseen hiileen sillä se tuottaa enemmän virtaa samassa ajassa.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Coal Enricher</Material>
+					</Target>
+					<Text>Orgaaninen hiilenrikastaja</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

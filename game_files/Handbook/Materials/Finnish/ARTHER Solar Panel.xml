@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>AVUTIN-aurinkopaneeli</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>AVUTIN-aurinkopaneeli</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Solar Panel</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>PArantaa nopeutta jolla AVUTIN lataa itse‰‰n auringonvalosta. Tarvitset vain yhden ja t‰ytyy pit‰‰ tavaraluettelossa toimiakseen.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>
