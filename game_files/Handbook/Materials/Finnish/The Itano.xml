@@ -1,0 +1,33 @@
+<MaterialEntry>
+	<Name>Itano</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Itano</Text>
+				</Title>
+				<Icon>
+					<Name>Itano</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ampuu kertakäyttö ohjuksia suuriin kohteisiin. Ohjukset tulisi säilö liitetysssä varastohypyttimessä.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Specifications</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Minimikantama:
+					Maksimikantama:
+					Damage (ohjustakohti):
+					Ohjuksia latingissa:
+					Latausaika:</Left>
+					<Right>64m
+					512m
+					50 000 (perusohjus)
+					16
+					15 sekunttia</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

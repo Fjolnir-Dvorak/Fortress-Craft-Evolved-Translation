@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Ikkuna</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ikkuna</Text>
+				</Title>
+				<Icon>
+					<Name>Window</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Perusrakennusmateriaali jota voi tehdä kaikkialla ilamn valmistusasemaa. Avaa itsevalmistuskäyttöliittymä (oletus 'C') tehdäksesi näitä.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

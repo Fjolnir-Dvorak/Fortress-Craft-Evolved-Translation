@@ -1,0 +1,37 @@
+<MaterialEntry>
+	<Name>Lopullinen koekapseli</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Lopullinen koekapseli</Text>
+				</Title>
+				<Icon>
+					<Name>ResearchPod_Ultimate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Koekapseleita k‰ytet‰‰n laboratoriossa kokeiden ja kehitysprojektien tekemiseen. Lis‰tietoa laboratoriotutkimuksesta seuraavassa oppaassa.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratoriotutkimus</Text>
+				</Link>
+				<Spacer />
+				<Paragraph>
+					<Text>Lis‰tietoa koekapselien tekemisest‰ seuraaavassa oppaassa.</Text>
+				</Paragraph>				
+				<Link>
+					<Target>
+						<Chapter>experimental pods</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Koekapselit</Text>
+				</Link>		
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Kehikko</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kehikko</Text>
+				</Title>
+				<Icon>
+					<Name>Truss</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Perusrakennusmateriaali jota voi tehdä missä vain ilman valmistusasemaa. Avaa itsevalmistuskäyttöliittymä (oletus 'C') tehdäksesi näitä.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

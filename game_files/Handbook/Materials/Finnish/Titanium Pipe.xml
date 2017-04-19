@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Titaaniputki</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Titaaniputki</Text>
+				</Title>
+				<Icon>
+					<Name>Titanium Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertainen titaaniputki on tehty titaaniharkoista putkenvenytysasemalla.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

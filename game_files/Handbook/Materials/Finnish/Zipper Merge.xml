@@ -1,0 +1,26 @@
+<MaterialEntry>
+	<Name>Vetoketjuyhdist‰j‰</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Vetoketjuyhdist‰j‰</Text>
+				</Title>
+				<Icon>
+					<Name>Zipper Merge</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Vetoketjuyhdist‰j‰ virheett‰ yhdist‰‰ kaksi kuljetinlinjaa 1:1 suhteella. Vetoketjuyhdist‰j‰n pit‰isi pysty‰ k‰sittelem‰‰n 100 esinett‰ minuutissa. Vetoketjuyhdist‰j‰ on kaikkein hyˆdyllisin esineiden automaatiossa jotka tarvitsevat tasaisen m‰‰r‰n kahta esinett‰ kuten takorautaharkko.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Conveyor Belt</Material>
+					</Target>
+					<Text>Kuljetinhihna</Text>
+				</Link>			
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

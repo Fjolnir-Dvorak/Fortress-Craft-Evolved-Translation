@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Name>Kovakiviraavin</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kovakiviraavin</Text>
+				</Title>
+				<Icon>
+					<Name>T4_Grinder</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Meidän täytyy saada uuden teknologian koneet jaloilleen. Tähän meillä on kertakäyttö raavin. Pari näitä pitäisi olla juuri tarpeeksi antaakseen malmia paljon isompaan järeämpään kaivinkoneeseen.</Text>
+				</Paragraph>	
+				<Spacer/>			
+				<Paragraph>
+					<Text>Usage should be pretty straightforward. Find or make a 3x3 horizontal flat area of the ore you want (Chromium or Molybdenum), place the Grinder down, give it power, wait until completion, and give it plenty of Storage Hoppers to offload the final material into.</Text>
+				</Paragraph>				
+				<Spacer/>
+				<Paragraph>
+					<Text>Jos 3x3 vaakasuoran alueen löytäminen on hankalaa käytä nanohajottimia tai ladattuja räjähteitä!</Text>
+				</Paragraph>				
+				<Spacer/>
+				<Paragraph>
+					<Text>Nämä koneet ovat kamalan tehottomia ja kalliita vaatien suuren määrän jalostettua hartsia ympäröivistä pesämielistä. Meidän pitäisi siirtä parempiin louhimiin heti kun mahdollista.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>NanoDisintegrator</Material>
+					</Target>
+					<Text>Nanohajotin</Text>
+				</Link>
+
+				<Icon>
+					<Name>Trencher Drill component</Name>
+					<Target><Material>TrencherDrillPlacement</Material></Target>
+				</Icon>
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

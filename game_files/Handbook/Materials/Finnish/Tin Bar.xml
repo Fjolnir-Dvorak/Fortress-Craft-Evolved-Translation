@@ -1,0 +1,23 @@
+<MaterialEntry>
+	<Name>Tinaharkko</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tinaharkko</Text>
+				</Title>
+				<Icon>
+					<Name>Tin Bar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Icon>
+					<Name>Tin Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Tinaharkkoja yleensä käytetään peruskoneissas joissa vaaditaan kevyt rakenne. Niitä tehdään tinamlamista jota voi löytää pinnan läheisyydestä.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

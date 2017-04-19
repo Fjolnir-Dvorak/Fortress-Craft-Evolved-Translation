@@ -1,0 +1,23 @@
+<MaterialEntry>
+	<Name>Myrkkyluolakasvi 3</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Myrkkyluolakasvi 3</Text>
+				</Title>
+				<Icon>
+					<Name>Toxic Cavern Flora 3</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>T‰m‰ kasvi n‰ytt‰‰ olevan immuuni t‰m‰n luolan myrkylliselle ilmastolle.</Text>
+				</Paragraph>		
+				<Spacer/>
+				<Paragraph>
+					<Text>T‰m‰ kasvi voidaan polttaa virrantuotannossa.</Text>
+				</Paragraph>		
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

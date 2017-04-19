@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Titaanilaatta</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Titaanilaatta</Text>
+				</Title>
+				<Icon>
+					<Name>Titanium Plate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertainen titaani laatta on tehty titaani harkoista leimasinasemalla.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

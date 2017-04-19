@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Tinalanka</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tinalanka</Text>
+				</Title>
+				<Icon>
+					<Name>Tin Wire</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertainen tinalanka tehd‰‰n tinaharkoista venytysasemalla.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

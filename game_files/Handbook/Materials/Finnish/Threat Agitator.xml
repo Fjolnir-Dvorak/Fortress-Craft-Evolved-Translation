@@ -1,0 +1,38 @@
+<MaterialEntry>
+	<Name>Uhan yllytin</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Uhan yllytin</Text>
+				</Title>
+				<Icon>
+					<Name>Threat Agitator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Käyttämällä uhan laannuttimen kanssa samanlkaista teknologiaa jokainen uhan yllytin lisää 10% tukikohdan perusuhasta ja houkuttelee 5 lisähyönteistä. 10 prosenttiyksikön lisä ei kasaannu exponentiaalisesti. Uhan yllytin käyttää neljä kertaa niin paljon voimaa kuin uhan laannutin kokonaisuudessa kaksikymmentä virtaa sekunnisa.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Threat Reducer</Material>
+					</Target>
+					<Text>Uhan laannutin</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Threat Scanner</Material>
+					</Target>
+					<Text>Uhkaluotain</Text>
+				</Link>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Vaatii virtaa:</Left>
+					<Right>Kyllä</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

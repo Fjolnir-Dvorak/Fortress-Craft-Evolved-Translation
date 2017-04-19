@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Titaanikela</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Titaanikela</Text>
+				</Title>
+				<Icon>
+					<Name>Titanium Coil</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertainen titaanikela on thety titaanilangoista kelausasemalla.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

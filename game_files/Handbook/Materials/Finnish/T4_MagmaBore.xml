@@ -1,0 +1,52 @@
+<MaterialEntry>
+	<Name>Magmakaira</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Magmakairan rakennus</Text>
+				</Title>
+				<Icon>
+					<Name>MagmaBore Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Leikkaa valtavan railon alas magmaluoliin tulvatakseen kylm‰luolat l‰mmˆll‰. Rakenna 33lx3kx33s asetelmaan (3276 kaikkinensa)</Text>
+				</Paragraph>	
+				<Spacer/>			
+				<Paragraph>
+					<Text>Magmakaira tekee meille kuilun alas magmaluoliin. Kun t‰m‰ on valmis meid‰n pit‰isi pysty‰ puristamaan magmaa ja k‰ytt‰m‰‰n sit‰ viimeinkin CryoPlasmkutemon pyyhkimiseksi - lopullisesti.</Text>
+				</Paragraph>				
+				<Spacer/>
+				<Paragraph>
+					<Text>Magmakairan alusta rakennetaan 33 metrin neliˆn muotoon, 3 metri‰ korkeaksi. Kun t‰m‰ on tehty, tukikehikko yritt‰ pystytt‰‰ itsens‰. T‰m‰ vaatii 12 lis‰metri‰; raivattava alue merkit‰‰n punaisella laatikolla. Raivaa t‰m‰ alue p‰‰kehikon digiluonnin jatkamiseksi.</Text>
+				</Paragraph>				
+				<Spacer/>
+				<Paragraph>
+					<Text>P‰‰osa magmakairasta vaatii viel‰ 64 metri‰ vapaata, yhteens‰ 33x80x33 tilaa. Taaskin kaikki esteeet siniselt‰ laatikolta pit‰‰ raivata viimeiseen vaiheeseen etenemiseksi. Tarvitsemme eeppist‰ m‰‰r‰‰ virtaa kirjaimellisesti luodaksemme t‰m‰n poran puhtaasta energiasta.</Text>
+				</Paragraph>
+				<Spacer/>
+			</Paragraphs>
+		</Page>		
+		<Page>
+			
+			<Paragraphs>
+			<Title>
+				<Text>Magmakairan k‰yttˆ</Text>
+				</Title>
+				<Icon>
+					<Name>MagmaBore Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Kun pora on t‰ysin digiluotu kairaaminen voi alkaa. Arvioimme ett‰ ainakin 100k virta sekunnissa - ehk‰ paljon enemm‰n! Mit‰ enemmm‰n virtaa on saatavilla sit‰ nopeampi etenemisemme on. Kun olemme osuneet magmaluoliin voimme aloittaa magman pumppaamisen ja sen k‰ytt‰misen!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Magma pit‰isi pumpata magmavarastoyksikkˆˆn perusnesteputkella. T‰m‰ voi sijaita jopa 256 metrin p‰‰ss‰ magmakairasta. Magmavarasto voidaan sitten yhdist‰‰ makisimikantamana 512m aktiiviseen Cryop‰tsikanuunaan. T‰m‰ hoitaa Cryokutemon uhan lopullisesti.</Text>
+				</Paragraph>
+				<Spacer/>
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

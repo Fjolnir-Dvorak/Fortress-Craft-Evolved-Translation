@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Myrkkyhiukkassuodatin</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Myrkkyhiukkassuodatin</Text>
+				</Title>
+				<Icon>
+					<Name>Toxic Particle Filter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Kehittyneet suodattimet mahdollistavat pukusi poistaa myrkylliset aineet ilmasta. Tarvitset vain yhden ja t‰ytyy pit‰‰ tavaraluettelossa toimiakseen.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>
