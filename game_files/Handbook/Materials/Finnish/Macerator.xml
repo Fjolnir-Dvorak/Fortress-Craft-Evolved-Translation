@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>Murskain</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Murskain</Text>
+				</Title>
+				<Icon>
+					<Name>Macerator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Murskain pystyy h‰vitt‰m‰‰n kaikkein kest‰vimm‰tkin materiaalit. Joskus t‰st‰ prosessita tulee mineraaliyhdisteit‰ sis‰‰napannusta esineest‰. Ulostullut malmi on erottamaton normaalista malmista ja voidaan kohdella sellaisena.</Text>
+				</Paragraph>
+				<Spacer/>
+				<TwoColumnParagraph>
+					<Left>Vaatii virtaa:</Left>
+					<Right>Kyll‰</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Spacer/>
+				<Header>
+					<Text>Vinkkej‰ ja temppuja!</Text>
+				</Header>
+				<Paragraph><Text>- T‰t‰ konettaa syˆtet‰‰n liukuhihnalta ja vie ker‰tyn malmin viereiseen varastohypyttimeen.</Text></Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>
+

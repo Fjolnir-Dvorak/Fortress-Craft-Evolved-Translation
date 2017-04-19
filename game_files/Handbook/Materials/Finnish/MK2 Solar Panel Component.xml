@@ -1,0 +1,39 @@
+<MaterialEntry>
+	<Name>Mallin 2 aurinkopaneelin osa</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mallin 2 aurinkopaneelin osa</Text>
+				</Title>
+				<Icon>
+					<Name>MK2 Solar Panel Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Mallin 2 aurinkopaneeli 3m level‰, 3 metri‰ pitk‰ ja 1 korkea voimala. Aseta 9 aurinkopaneeliosaa t‰h‰n asetelmaan rakentaaksesi koneen. P‰‰sy yl‰puoliseen auringonvaloon on turvattava.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>T‰m‰n voimalan voi asettaa kehittyineiden koneiden p‰‰lle kuten tutkimuslaboratorio, jalostamo, rahtihissi ja mallin 4 ja 5 virtavarastointilohko.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Huippuvirta (runsas):
+					Huippuvirta (harva):
+					Virtakapasiteetti:
+					Maksimivirransiirtonopeus:
+					Polttoaika:
+					Polttoaine:</Left>
+					<Right>405 sekunnisa
+					162 sekunnisa
+					1500
+					Tajoittamaton
+					
+					Auringonvalo</Right>
+				</TwoColumnParagraph>					
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

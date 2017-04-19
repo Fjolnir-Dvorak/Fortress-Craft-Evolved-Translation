@@ -1,0 +1,24 @@
+<MaterialEntry>
+	<Name>Tukkuvarastosyöttöportti</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tukkuvarastosyöttöportti</Text>
+				</Title>
+				<Icon>
+					<Name>Mass Storage Input Port</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Aseta tämä palikka tukkuvarastolohkon viereen syöttääksesi esineitä tukkuvarastoon. Syötintä voi syöttää suoraan liukuhihnalta yksikerrallaan. Erilaiset esinetyypit voidaan syöttää samansyöttimen kautta yksikerrallaan.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Varoitus!</Text>
+				</Header>
+				<Paragraph><Text>Tällä ei ole mitään tekemistä varastohypyttimen kanssa!</Text></Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>
+

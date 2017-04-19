@@ -1,0 +1,30 @@
+<MaterialEntry>
+	<Name>Laboratorio-osa</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Laboratio-osa</Text>
+				</Title>
+				<Icon>
+					<Name>Laboratory Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Laboratorio vaaditaan kehittyineiden kehitysprojektien tekemiseen jotka parantavat teknologiatasoasi avaamalla uusia projekteja ja reseptej‰. Yhteen‰ 27 laboratorio-osaa tarvitaan (tehd‰‰n kolmessa yhdeks‰n osan pinossa) ja t‰ytyy rakentaa 3x3x3 asetelmaan.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Lis‰informaatiota laboratiosta seuraavassa oppaassa:</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratoriotutkimusopas</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

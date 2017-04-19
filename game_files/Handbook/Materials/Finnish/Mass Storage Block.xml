@@ -1,0 +1,24 @@
+<MaterialEntry>
+	<Name>Tukkuvarastolohko</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tukkuvarastolohko</Text>
+				</Title>
+				<Icon>
+					<Name>Bound Metal Crate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>T‰m‰ on tukkuvarastojen peruspalikka. Sit‰ ei voi k‰ytt‰‰ k‰sin. Jokainen lohko voi pit‰‰ 25 esineen pinoa. Asettamalla tukkuvarastolohkoja vieriviereen tehd‰‰n suurempi yhdistetty varasto.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Caution!</Text>
+				</Header>
+				<Paragraph><Text>T‰ll‰ ei ole mit‰‰n tekemist‰ varastohypyttimien kanssa!</Text></Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>
+

@@ -1,0 +1,33 @@
+<MaterialEntry>
+	<Name>Freezon-lis‰‰j‰</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Freezon-lis‰‰j‰</Text>
+				</Title>
+				<Icon>
+					<Name>Freezon Injector</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Freezon-lis‰‰j‰t k‰ytt‰v‰t Freezon-kanistereita antaakseen suuren hyˆdyn yhteensopiville koneille.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Vaikutukset</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Geothermiset voimalat
+					Keih‰st‰j‰t
+					Hartsikuluttajat
+					Hartsinnesteytt‰j‰t
+					</Left>
+					<Right>10x virrantuotanto
+					28x raivausnopeus
+					54x nopeusparannus
+					54x nopeusparannus</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

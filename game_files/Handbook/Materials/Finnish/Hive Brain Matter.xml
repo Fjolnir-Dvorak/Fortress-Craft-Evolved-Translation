@@ -1,0 +1,27 @@
+<MaterialEntry>
+	<Name>Pesäaivoaine</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Pesäaivoaine</Text>
+				</Title>
+				<Icon>
+					<Name>Brain Matter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Suurin osa pesämielestä tuhoutui räjähdyksessä. Osa aivoaineesta on tarpeesi turmeltumaton tutkimisen edellyttämiseksi. Laboratoriosi voi analysoida tämän esineen minkä pitäisi antaa lisätutkimusmahdollisuuksia.</Text>
+				</Paragraph>
+				<Spacer/>rte
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratoriotutkimus</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

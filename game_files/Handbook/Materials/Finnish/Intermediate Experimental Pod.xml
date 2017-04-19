@@ -1,0 +1,37 @@
+<MaterialEntry>
+	<Name>Keskitason koekapseli</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Keskitason koekapseli</Text>
+				</Title>
+				<Icon>
+					<Name>ResearchPod_Intermediate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Keskitason koekapselia k‰ytet‰‰n tutkimuslaboratoriossa tutkimukseen ja kehitysprojektien tekemiseen. N‰m‰ kapselit tehd‰‰n raudasta. Lis‰informaatiota laboratoriotutkimuksesta seuraavassa oppaassa.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratoriotutkimus</Text>
+				</Link>
+				<Spacer />
+				<Paragraph>
+					<Text>Lis‰informaatiota koekapselien tekemisest‰ seuraavassa oppaassa.</Text>
+				</Paragraph>				
+				<Link>
+					<Target>
+						<Chapter>experimental pods</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Koekapselit</Text>
+				</Link>		
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

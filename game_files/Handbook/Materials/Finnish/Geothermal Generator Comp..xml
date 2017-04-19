@@ -1,0 +1,26 @@
+<MaterialEntry>
+	<Name>Geothermisen voimalan osa</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Geotermisen voimalan osa</Text>
+				</Title>
+				<Icon>
+					<Name>Geothermal Generator Comp.</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Geotermisen voimalan osia käytetään muodostamaan korkean tason passiivinen voimala joka pystyy tuottamaan 10 kertaa suihkuturbiinin verran. Geoterminen voimala pitää asettaa kylmäluoliiin ja sille syöttää lämpöjohtoisia putkia virran tuotannon aloittamiseksi.  Geovoimala toimii lämpöeroilla joka putkella joka asetetaan kylmäluolien alle  sekunnisa tuotettu virta kasvaa. Kun lämpöjohtavat putket saavuttavat magmaluolat alkavat ne tuotta exponentiaalisesti enemmän voimaa kuin aiemmin. Koska geovoimala toimii lämpöeroilla Freezon-kanisterien söttämisen pitäisi tehostaa sen energiatuotantoa merkittävästi.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Heat Conducting Pipe</Material>
+					</Target>
+					<Text>Lämpöjohtava putki</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

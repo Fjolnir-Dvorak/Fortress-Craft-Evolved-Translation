@@ -1,0 +1,26 @@
+<MaterialEntry>
+	<Name>Uudutettu hiili</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Uudutettu hiili</Text>
+				</Title>
+				<Icon>
+					<Name>Infused Coal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Uudutettu kiili on kristallihiiliuuduttajan tuote. Uudutettu hiili on parannus riakstettuun hiileen koska se tuottaa enemmän virtaa samassa ajasssa.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Crystal Coal Infuser</Material>
+					</Target>
+					<Text>Kristallihiiliuuduttaja</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

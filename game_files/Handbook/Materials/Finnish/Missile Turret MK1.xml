@@ -1,0 +1,73 @@
+<MaterialEntry>
+	<Name>Mallin 1 ohjustorni</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mallin 1 ohjustorni</Text>
+				</Title>
+				<Icon>
+					<Name>Missile Turret MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Spacer/>
+				<Paragraph>
+					
+					<Text>Ampuu kertakäyttöisen ohjuksen isoihin kohteisiin. OHjukset tulisi säilöä liitetyssä varastohypyttimessä. Ohjustorni vaatii näköyhteyden kohteeseen ja tulisi asetta mahdollisimman laajaalaiselle ampumapaikalle.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Minimikantama:
+					Maksimikantama:
+					Vahinko (ohjusta kohden):
+					Ohjusta laukaus:
+					Latausaika:</Left>
+					<Right>64m
+					512m
+					75k - 750k (riippuen ohjuksesta)
+					1
+					15 sekuntia</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Empty Missile Assembler</Material>
+					</Target>
+					<Text>Tyhjän ohjuksen kokoaja</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Missile Fueller</Material>
+					</Target>
+					<Text>Ohjuksen tankkaaja</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Armour Piercing Warhead Fitter</Material>
+					</Target>
+					<Text>Panssaritaistelukärjenasetin</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Warhead Imbuer</Material>
+					</Target>
+					<Text>Taistelukärjen uudutin</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>CryoChilled Missile Assembler</Material>
+					</Target>
+					<Text>Syväjäädytetyn ohjuksen kokoaja</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Mephitic Missile Assembler</Material>
+					</Target>
+					<Text>Törkyohjuksen kokoaja</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Kultakela</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kultakela</Text>
+				</Title>
+				<Icon>
+					<Name>Gold Coil</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertainen kulta kela on tehty kultalangasta kelausasemalla.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

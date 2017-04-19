@@ -1,0 +1,49 @@
+<MaterialEntry>
+	<Name>Laaserhartsikulutin</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Laaserhartsikulutin</Text>
+				</Title>
+				<Icon>
+					<Name>Laser Resin Ablator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+
+				<Paragraph>
+					<Text>T‰m‰ on ensimm‰inen osa kolmivaiheisessa tavassa k‰ytt‰‰ ja raivata kovettunut hartsi jota pes‰mielet eritt‰v‰t ymp‰rilleen.
+
+					Kuluttaja k‰ytt‰‰ kohdistettua laaserenergiaa l‰mmitt‰‰kseen ja kuoriakseen hartsin kovan kuoren.
+
+					T‰m‰n j‰lkeen nesteytint‰ voidaan k‰ytt‰‰ sisuksen keitt‰miseen ja poistamiseen. 
+
+					Voit sitten k‰ytt‰‰ nestem‰isenhartsinjalostajaa muuttaaksesi sen jalostetuksi nestem‰iseksi hartsiksi.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Ablaatio.(s) Pintakerroksen menetys l‰mmˆn tai kitkan johdosta.</Text>
+				</Paragraph>
+
+				<Link>
+					<Target>
+						<Material>Laser Resin Liquifier</Material>
+					</Target>
+					<Text>Laaserhartsinesteytin</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Liquid Resin Refiner</Material>
+					</Target>
+					<Text>Nestehartsinjalostin</Text>
+				</Link>
+					<Link>
+					<Target>
+						<Material>Refined Liquid Resin</Material>
+					</Target>
+					<Text>Jalostettu nestem‰inen hartsi</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

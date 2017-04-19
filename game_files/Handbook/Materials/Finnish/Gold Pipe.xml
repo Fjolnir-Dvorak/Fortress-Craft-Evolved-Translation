@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Kultaputki</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kultaputki</Text>
+				</Title>
+				<Icon>
+					<Name>Gold Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertainen kultaputki on tehty kultaharkoista putkenvenytysasemalla.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

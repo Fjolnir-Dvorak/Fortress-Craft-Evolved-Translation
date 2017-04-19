@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Rautakela</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Rautakela</Text>
+				</Title>
+				<Icon>
+					<Name>Iron Coil</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertainen rautakela tehd‰‰n rautalangoista kelasemalla.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

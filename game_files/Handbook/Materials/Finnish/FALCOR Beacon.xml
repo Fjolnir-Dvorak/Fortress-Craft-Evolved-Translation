@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Name>HAUKKAAJA sondi</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>HAUKKAJA sondi</Text>
+				</Title>
+		
+						
+				<Icon>
+					<Name>FALCOR Beacon</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+
+
+				<Paragraph>
+					<Text>Hakemisen Automatisointi Usean Koneellisen Kiit‰j‰n Avulla Avalta Jorpakkoiselta Alueelta (tai HAUKKAAJA lyhyesti!) sondeja voi k‰ytt‰‰ kahdessa eri toiminnossa.
+
+					Jos sondi on asetettu lattialle sillion se ker‰‰ esineit‰ 16 metrin s‰teelt‰ joka suuntaan ja pit‰‰ niit‰ kunnes mallin 1 HAUKKAAJA on vapaa ker‰‰m‰n sen.
+
+					Jos sondi on asetettu varastohypyttimen p‰‰lle niin sillin se ker‰‰ esineit‰ varastohypyttimest‰ ja pit‰‰ sit‰ kunne logistinen HAUKKAAJA on vapaa ker‰‰m‰‰n sen.
+
+					HAUKKAAJA tukikohdat eiv‰t tarvitse virtaa mutta sondit kuitenkin tarvitsevat.
+					</Text>
+				</Paragraph>
+				<Spacer/>
+				<Icon>
+					<Name>FALCOR MK1</Name>
+					<Target><Material>FALCOR MK1</Material></Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>FALCOR MK1</Material>
+					</Target>
+					<Text>HAUKKAAJA</Text>
+				</Link>	
+				 
+				<Spacer/>
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Litiumlaatta</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Litiumlaatta</Text>
+				</Title>
+				<Icon>
+					<Name>Lithium Plate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertainen laatta tehd‰‰n litiumharkoista leimasinasemalla.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>
