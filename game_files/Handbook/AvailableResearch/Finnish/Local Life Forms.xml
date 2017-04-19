@@ -1,0 +1,21 @@
+<Chapter>
+	<Handle>Local Life Forms</Handle>
+	<Title>L‰hiel‰m‰nmuodot</Title>
+	<Icon>Local Life Forms</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>L‰hiel‰m‰nmuodot</Text>
+				</Title>
+				<Icon>
+					<Name>L‰hiel‰m‰nmuodot</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>T‰m‰ planeetta ei ole kuollut! Luotaimet havaitsevat sek‰ kasveja ett‰ el‰imi‰. T‰m‰ projekti tutkii el‰m‰nmuotoja ja m‰‰ritt‰‰ onko niist‰ vaaraa.</Text>  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

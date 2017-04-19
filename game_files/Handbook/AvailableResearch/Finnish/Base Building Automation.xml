@@ -1,0 +1,29 @@
+<Chapter>
+	<Handle>T1 assist machines</Handle>
+	<Title>Automatisoitu tukikohdanrakennus</Title>
+	<Icon>Base Building Automation</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Automatisoitu tukikohdanrakennus</Text>
+				</Title>
+				<Icon>
+					<Name>Base Building Automation</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Suuren louhintaoperaation rakentaminen on homma koneelle, ei ihmiselle!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>T‰m‰ laaja-alainen projekti kehitt‰‰ koneita automaattista kaivamista ja rakentamista varten parantaen tukikohdan sis‰liikennevaihtoehtoja.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Automaattisen kaivuun lis‰ksi projekti yritt‰‰ tuottaa r‰j‰hteen jolla voi raivata isoja alueita.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>
