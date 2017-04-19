@@ -1,0 +1,27 @@
+<MaterialEntry>
+	<Name>Tutkimusosat</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tutkimusosat</Text>
+				</Title>
+				<Icon>
+					<Name>Lightweight PCB</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Törmännytrahtikapseli näyttää sisältäneen lukuisia kehittyneen piiristön osia joita emme vain pysty tuottamaan pinnalla. Viemällä tämä laboratoriooon ja käyttämällä Analysointi moodia kun tämä on liitetysttä varastohypyttimessä pitäisi johtaa hyödylliseen kehitykseen!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratoriotutkimus</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Sora</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Sora</Text>
+				</Title>
+				<Icon>
+					<Name>Rubble</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Käsiluohinnan sivutuotteena löytyvä kivi. Voidaan musrkata murskaimessa malmin löytämiseksi. Tämä palikka voidaan asettaa.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

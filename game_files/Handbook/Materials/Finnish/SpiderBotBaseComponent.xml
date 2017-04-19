@@ -1,0 +1,64 @@
+<MaterialEntry>
+	<Name>SpiderBot-tukikohtaosa</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>SpiderBot-tukikohta</Text>
+				</Title>
+				<Icon>
+					<Name>SpiderBot Core Charger</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>SpiderBot-tukikohta on ensisijainen tapa vuorovaikuttaa liikkivan tukikohdanpuolustus robottisi kanssa. Tuttavallisemmin tunnetaan myˆs SpiderBro:na tai Henriettana riippuen kumman sukupuolen olet valinnut.
+
+					Kaikki Spiderbot virta ja p‰ivitykset toimitetaan Spiderbot-tukikohtaan logistisilla hypyttimill‰. Jokainen liitetty hypytin pystyy toimittamaan 1 esineen joka 1.2 sekuntti. K‰yt‰ paljon sivun tilaa maksiminopeudeksi.
+
+					SpiderBot itse pystyy pit‰m‰‰n 150 000 virtaa. Virta toimitetaan Spiderbot-tukikohdanlaturilla joka tekee Spidetbotytimi‰. N‰m‰ asetetaan logistisiin hypyttimiin.
+
+					SpiderBot:lla on 3 tason asep‰ivityksi‰. Jokainen n‰ist‰ tarvitsede tehd‰ k‰sin ja asettaa liitettyihin logistisiin hypyttimiin. SpiderBot palaa sitten automattisesti telakoitumaan ja asentaa esineen. 
+
+					Vain yksi jokaista asep‰ivityst‰ taravitaan; kopiot j‰tet‰‰n huomiotta.
+					</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>		
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Saatavilla olevat asennettavat p‰ivitykset</Text>
+				</Title>
+				<Icon>
+					<Name>SpiderBot</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>SpiderBot Core Charger</Material>
+					</Target>
+					<Text>SpiderBot-ydinlaturi</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>SpiderBot Blaster</Material>
+					</Target>
+					<Text>SpiderBot-pyssy</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>SpiderBot Cannon</Material>
+					</Target>
+					<Text>SpiderBot-kanuuna</Text>
+				</Link>
+					<Link>
+					<Target>
+						<Material>SpiderBot Particle Rifle</Material>
+					</Target>
+					<Text>SpiderBot-hiukkaskiv‰‰ri</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

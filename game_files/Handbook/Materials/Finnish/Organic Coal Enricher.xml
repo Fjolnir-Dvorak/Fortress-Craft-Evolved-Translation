@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Orgaaninen hiilenrikastin</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Orgaaninen hiilenrikastin</Text>
+				</Title>
+				<Icon>
+					<Name>Organic Coal Enricher</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Orgaaninen hiilenrikastin k‰ytt‰‰ pient‰ m‰‰r‰‰ virtaa lis‰t‰kseen hiilen tuottamaa virtaa poltettaessa. Orgaaninen hiilenrikastin k‰ytt‰‰ 0.1 e/s  15 sekunnin ajan muuttaakseen tavallista hiilt‰ rikastetuksi hiileksi.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

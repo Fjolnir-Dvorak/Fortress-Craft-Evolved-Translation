@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Lumi</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Lumi</Text>
+				</Title>
+				<Icon>
+					<Name>Snow</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>mullan ja lumen yhdistelm‰ joka n‰ytt‰‰ olevan yleinen maailmassa.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

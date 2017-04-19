@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Mallin 1 aurinkokenno</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mallin 1 aurinkokenno</Text>
+				</Title>
+				<Icon>
+					<Name>Solar Cell MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ensimm‰isi‰ p‰ivityksi‰ joita tulisi kehitt‰‰, tuottaa ja pukea, mallin 1 aurinkokenno tarjoaa huomattavasti enemm‰n virtatuotantoa vaarapukuun planeetan pinnalla.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

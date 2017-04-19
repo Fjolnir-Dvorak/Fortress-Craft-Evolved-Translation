@@ -1,0 +1,37 @@
+<MaterialEntry>
+	<Name>Hyllyraide</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Hyllyraide</Text>
+				</Title>
+				<Spacer/>
+				<Icon>
+					<Name>Rack Rail</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Raiteita joita rahtihissi k‰ytt‰‰ tavarankuljetukseen.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Rack Railer</Material>
+					</Target>
+					<Text>Hyllynraidettaja</Text>
+				</Link>
+				<Spacer/>
+				<Spacer/>
+				<Paragraph>
+					<Text>Katso rahtihissiohjaimesta lis‰tietoja.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target><Material>Cargo Lift Controller</Material></Target>
+					<Text>Rahtihissiohjain</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

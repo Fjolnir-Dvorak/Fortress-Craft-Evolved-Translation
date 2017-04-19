@@ -1,0 +1,30 @@
+<MaterialEntry>
+	<Name>SpiderBot-pyssy</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>SpiderBot-pyssy</Text>
+				</Title>
+				<Icon>
+					<Name>SpiderBot Defences 3</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>T‰m‰ altaammuttava ase t‰ht‰‰ yhteen viholliseen ja antaa pienen m‰‰r‰n sarjatuli puolustusta nopeasti liikkuvia pieni‰ kohteita vastaan. Ole tietoinen ett‰ t‰m‰n asentaminen voi aiheuttaa suurta vahinko pintakerrokselle. Ole varautunut soda-alueeseen ennen kuin asennat t‰m‰n tuhotoosan!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Vain yhden asentaminen on tarpeellista!</Text>
+				</Header>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>SpiderBot Base Component</Material>
+					</Target>
+					<Text>Lis‰tietoa SPiderBot:sta!</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

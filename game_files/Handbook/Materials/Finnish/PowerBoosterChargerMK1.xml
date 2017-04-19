@@ -1,0 +1,58 @@
+<MaterialEntry>
+	<Name>Mallin 1 Virtaydinlaataaja</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mallin 1 virtavahvistimen lataaja</Text>
+				</Title>
+				<Icon>
+					<Name>MK1PowerBoosterCharger</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Spacer/>
+				<Paragraph>
+					<Text>T‰m‰ kone tekee ja lataa mallin 1 virtavahvistimia. K‰ytt‰‰ kuparikeloj aja hieman virtaa.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Virtaa palautettu:</Left><Right>100</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>PowerBoosterMK1</Material>
+					</Target>
+					<Text>mallin 1 AVUTIN-virtavahvistin</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>PowerBoosterMK2</Material>
+					</Target>
+					<Text>mallin 2 AVUTIN-virtavahvistin</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>PowerBoosterMK3</Material>
+					</Target>
+					<Text>mallin 3 AVUTIN-virtavahvistin</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>PowerBoosterMK4</Material>
+					</Target>
+					<Text>mallin 4 AVUTIN-virtavahvistin</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>PowerBoosterMK5</Material>
+					</Target>
+					<Text>mallin 5 AVUTIN-virtavahvistin</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

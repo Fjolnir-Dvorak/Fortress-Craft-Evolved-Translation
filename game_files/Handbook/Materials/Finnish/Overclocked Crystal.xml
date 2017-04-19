@@ -1,0 +1,26 @@
+<MaterialEntry>
+	<Name>Ylikellotettu kide</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ylikellotettu kide</Text>
+				</Title>
+				<Icon>
+					<Name>Overclocked Crystal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ylikellotetut kiteet ovat kehittyneit‰ kidekelloki joita tehd‰‰n ylikellottamalla tavallinen kide suurella m‰‰r‰ll‰ energiaa. Ylikellotettuja kiteit‰ k‰ytet‰‰n useissa kehittyneiss‰ koneissa vaikkakin usemmiten tason 4 koneissa.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>OverClocker</Material>
+					</Target>
+					<Text>Ylikellottaja</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

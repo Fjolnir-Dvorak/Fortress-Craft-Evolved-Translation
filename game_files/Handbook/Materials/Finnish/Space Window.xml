@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Avarruusikkuna</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Avaruusikkuna</Text>
+				</Title>
+				<Icon>
+					<Name>Space Window</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Perusrakennusmateriaali jota voidaan tehdä kaikialla tarvitsematta valmistusaseman palveluja. Avaa itse-valmistuskäyttöliittymä (oletus 'C') valmistaaksesi näitä.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

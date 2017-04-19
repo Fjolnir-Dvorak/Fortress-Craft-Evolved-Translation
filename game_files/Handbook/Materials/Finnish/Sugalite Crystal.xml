@@ -1,0 +1,24 @@
+<MaterialEntry>
+	<Name>Sugiliiitikide</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Sugiliittikide</Text>
+				</Title>
+				<Icon>
+					<Name>Sugalite Crystal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Sugiliittikide on harvinainen materiaali kota käytetään päivitysten pohja-aineena. Se löytyy luolista syvyyksien -275 ja -2500 välistä.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Tempuja ja neuvoja.</Text>
+				</Header>
+				<Paragraph><Text>Saatat kohdata sugiliittikiteitä kaikissa syvissä luolissa. Se on harvinainen löytö. Äärimmäisissä syvyyksissä luolanluonti loppuu.</Text></Paragraph>
+				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

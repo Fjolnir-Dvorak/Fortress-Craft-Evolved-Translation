@@ -1,0 +1,30 @@
+<MaterialEntry>
+	<Name>SpiderBot-kanuuna</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>SpiderBot-kanuunat</Text>
+				</Title>
+				<Icon>
+					<Name>SpiderBot Defences 2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>T‰m‰ pari etuliitettyj‰ kanuunoita pystyy hoitelemaan keskikokoiset ja isot kohteet. Ne t‰ht‰‰v‰t itsen‰isesti ja ‰lykk‰‰sti j‰tt‰v‰t pienet kohteet huomiotta keskittyen isompiin panssaroituihin kohteisiin.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Vain yhden asentaminen on tarpeellista - ne tulevat kokonaisuutena!</Text>
+				</Header>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>SpiderBot Base Component</Material>
+					</Target>
+					<Text>Lis‰informaatiota SpiderBot:sta!</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>
