@@ -1,0 +1,40 @@
+<MaterialEntry>
+	<Name>Mallin 3 virtavahvistin</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mallin 3 AVUTIN-virtavahvistin</Text>
+				</Title>
+				<Icon>
+					<Name>MK3 Power Booster</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Spacer/>
+				<Paragraph>
+					<Text>Tämän esineen käyttö palauttaa heti AVUTIN:lle virtaa. Suunnittele ja laajenna maanalaisia retkiäsi ja virroita koneita.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Virtaa palautettu:</Left><Right>500</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>PowerBoosterMK4</Material>
+					</Target>
+					<Text>mallin 4 AVUTIN-virtavahvistin</Text>
+				</Link>
+					<Link>
+					<Target>
+						<Material>MK3PowerBoosterCharger</Material>
+					</Target>
+					<Text>Tehdään mallin 3 virtavahvistinlaturissa</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

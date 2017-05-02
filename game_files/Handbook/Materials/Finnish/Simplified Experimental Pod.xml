@@ -1,0 +1,37 @@
+<MaterialEntry>
+	<Name>Yksinkertaistettu koekapseli</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Yksinkertaistettu koekapseli</Text>
+				</Title>
+				<Icon>
+					<Name>ResearchPod_Simplified</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Koekapseleita k‰ytet‰‰n laboratoriossa kokeiden ja kehitysprojektien suorittamiseen. Lis‰informaatiota laboratorio tutkimuksesta seuravassa oppaassa.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratoriotutkimus</Text>
+				</Link>
+				<Spacer />
+				<Paragraph>
+					<Text>Lis‰tieto koekapselien tekemisest‰ seuraavassa oppaassa.</Text>
+				</Paragraph>				
+				<Link>
+					<Target>
+						<Chapter>experimental pods</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Koekapselit</Text>
+				</Link>		
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

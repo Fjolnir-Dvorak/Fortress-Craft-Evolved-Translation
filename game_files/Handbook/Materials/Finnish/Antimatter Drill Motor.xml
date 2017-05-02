@@ -1,0 +1,25 @@
+<MaterialEntry>
+	<Name>Antimateriaporamoottori</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Antimateriaporamoottori</Text>
+				</Title>
+				<Icon>
+					<Name>Antimateriaporamoottori</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Parantaa nopeutta jolla malmiluohija luohii malmeja lis‰‰ntyneen virrankulutuksen hinnalla.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Louhintanopeus:</Left>
+					<Right>3200%</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

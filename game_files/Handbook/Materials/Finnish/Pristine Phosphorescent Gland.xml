@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Turmeltumaton fosforenssirauhanen</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Turmeltumaton fosforenssirauhanen</Text>
+				</Title>
+				<Icon>
+					<Name>WaspGlandPristine</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nämä paikallisten eliöiden rauhaset näyttävät sopivan virran varastointiin. Tämä näyttää olevan tarpeeksi hyvässä kunnossa käyttöön. Jos löytäisimme tavan ansoittaa ja tapaa limoja tällä planeetalla ehkä voisimme saada näitä paljon.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

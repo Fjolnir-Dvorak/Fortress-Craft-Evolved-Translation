@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Kuparilanka</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kuparilanka</Text>
+				</Title>
+				<Icon>
+					<Name>Copper Wiring</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertaista kuparilankaa k‰ytet‰‰n elektronisten osien koneissa. Tehd‰‰n venytysasemalla.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

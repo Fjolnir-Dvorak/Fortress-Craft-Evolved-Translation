@@ -1,0 +1,33 @@
+<MaterialEntry>
+	<Name>Mallin 2 tykkitorni</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mallin 2 tykkitorni</Text>
+				</Title>
+				<Icon>
+					<Name>Pop Up Turret MK2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Perusenergiapuolustus. Täytyy virroittaa liitetyllä virtavarastolohkolla tai laaserenergialähettimellä.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Kantama:
+					Vahinko (ammusta kohti):
+					Virtavaatimus (ammusta kohti):
+					Maksimivirtakapasioteetti:
+					Latausaika:</Left>
+					<Right>20m
+					96
+					32
+					192
+					0.4 sekunttia</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Rautakotelo</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>rautakotelo</Text>
+				</Title>
+				<Icon>
+					<Name>Iron Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertainen rautakotelo tehd‰‰n rautalaatoista.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

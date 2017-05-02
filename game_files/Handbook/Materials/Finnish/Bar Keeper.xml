@@ -1,0 +1,33 @@
+<MaterialEntry>
+	<Name>Harkon pitäjä</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Cyberdyne harkon haltuunottojärjestelmä</Text>
+				</Title>
+				<Icon>
+					<Name>Bar Keeper</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Cyberdyne harkon haltuunottojärjestelmä on kone jota käytetään harkkojen ottamiseen pelaajien tavaraluettelosta. Tämä kone on tarkoitettu estämäään tahaton resurssien ryöstö pelaajien lähtiessä palvelimelta. Toisin kuin sen esi-isät malmi- ja roskavaras haitaa pelaajia enemmän kuin avittaa kun asetetaan käytäviin. Palvelimella pelattaessa pitäisi asettaa keskeiselle paikalle johon kaikki pelaajilla on pääsy mutta merkitty ilmiselvästi niin ettei käytetä tahattomasti.
+
+					Yksinkertaisesti rakenna upouusi harkon haltuunottojärjestelmä 3x3 asetemlaan ja anna vain 5 virtaa per harkko. Sitten vain astu siihen ja anna SEN tehdä kova työ puolestasi!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Harkonkeräysnopeus:
+					Sisäinen varasto:
+					Virrankäyttö:
+					</Left>
+					<Right>jopa 3,300 minuutissa
+					100 harkkoa!
+					vain 5 virtaa harkkoa kohden!
+					</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

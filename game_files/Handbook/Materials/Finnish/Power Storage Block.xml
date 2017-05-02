@@ -1,0 +1,35 @@
+<MaterialEntry>
+	<Name>Virtavarastolohko</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Virtavarastolohko</Text>
+				</Title>
+				<Icon>
+					<Name>PowerStorageBlock</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Virtavarastolohko voi varata 200 energiaa. Se ottaa energiaa liitetyist‰ voimaloista ja antaa sit‰ kiinnitetyille koneille tai voimasiirtimille. Useat voimavarastolohkot jakavat energiaa kesken‰‰n mutta t‰m‰ ei ole tehokasta muutamaa palikkaa pidemm‰lle. T‰h‰n tulisi k‰ytt‰‰ laserenergial‰hettimi‰.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Energiaa voi ottaa voimavarastolohkosta painamalla 'ota' nappia (oletus Q)) ja lis‰t‰ painamalla 'vuorovaikuta' nappia (oletus 'E').</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>P‰ivityksi‰ perusvirtavarastolohkoon voi avata tutkimusasemallla.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Virtakapasiteetti:
+					Maksimivirransiirtonopeus:</Left>
+					<Right>200
+					rajaton</Right>
+				</TwoColumnParagraph>					
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

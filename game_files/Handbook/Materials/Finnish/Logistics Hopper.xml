@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>Logistinen hypytin</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Logistinen hypytin</Text>
+				</Title>
+				<Icon>
+					<Name>LogisticsHopper</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Logistinen hypytin on halvempi versio perusvarastohypyttimest‰ joka voi varastoida 2 esinett‰ ja konka kest‰‰ 10 sekuntia k‰sitell‰ jokainen esine. Logistinen hypytin on sopiva ulostulohypytin malmiluohimille joissa ei ole p‰ivityksi‰. Jos logistisista hypyttimist‰ tulee pullonkaula niiden p‰ivitt‰mist‰ pit‰isi tutkia.</Text>
+				</Paragraph>
+				<Spacer />
+				<Paragraph>
+					<Text>Lis‰informaatiota varastohypyttimist‰ niiden oppaassa.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Page>0</Page>
+						<Material>StorageHopper</Material>
+					</Target>
+					<Text>Varastohypytin</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>
+

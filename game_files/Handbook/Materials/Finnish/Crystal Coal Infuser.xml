@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Name>Kristallihiilenuuduttaja</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kristallihiilenuuduttaja</Text>
+				</Title>
+				<Icon>
+					<Name>Crystal Coal Infuser</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Kristallihiilenuuduttaja k‰ytt‰‰ pient‰ m‰‰r‰ voimaa lis‰t‰kseen rikastetusta hiilest‰ polttovoimalassa saatavaa virtaa. Kristallihiilenuuduttaja 
+k‰ytt‰‰ 0.1 e/s 15 sekunnin ajan k‰sitell‰kseen rikastetun hiilen uudutetuksi hiileksi.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

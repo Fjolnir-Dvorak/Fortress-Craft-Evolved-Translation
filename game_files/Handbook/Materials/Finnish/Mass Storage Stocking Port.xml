@@ -1,0 +1,45 @@
+<MaterialEntry>
+	<Name>Tukkuvarastopinoamisportti</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tukkuvarastopinoamisportti</Text>
+				</Title>
+				<Icon>
+					<Name>Mass Storage Input Port</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Tukkuvarastopinoamisportti mahdollista esineiden hallitun lisäyksen tukkuvarastoon ylivuodon estämiseksi.. 
+					</Text>
+				</Paragraph>
+				<TwoColumnParagraph>
+					<Left>Portin varasto:
+					Lennokin varasto:
+					</Left>
+					<Right>50
+					12
+					</Right>
+				</TwoColumnParagraph>
+				<Paragraph>
+				<Text>Tukkuvarastopinousportti pitää asettaa tukkuvarastolohkon viereen. Painamalla E avaat varastoitavan esineen määräämisen ja lukumäärän käyttöliitymän.  Portti lisää esineen vain jos nykyinen varastotilanne on alle rajan.  Toiset esineet lisätään aina niinkuin kone olisi tavallinen syöttöportti.  
+				
+				Pidä Ctrl, Shift tai Alt säätäessäsi varastorajoja askeltaaksesi 10, 100 tai 1000 esineen hyppäyksissä.
+				</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Paragraph>
+				<Text>
+				Voit klikata tyhjää tavaraluettelo koloa etsiäksesi esinettä nimentä asettaksesi esinen helposti tai painaa nappia valitaksesi esineen. Monipalkkiaosat ovat erityisiä joten ne eivät löydy normaalihaulla joten etsi "moni", "asetus" tai "osa" saadaksesi listan niistä palikoista.
+				
+				Portin sisäinen varasto voidaan lukita käyttäen nimettyä nappia käyttöliittymässä portin hanstraamisen estämiseksi. Tämä toiminto on tarkoitettu korkeaarvoisten esineiden jonotuksen estämiseksi.
+				</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

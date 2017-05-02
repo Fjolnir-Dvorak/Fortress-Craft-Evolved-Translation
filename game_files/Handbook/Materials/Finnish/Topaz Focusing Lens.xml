@@ -1,0 +1,25 @@
+<MaterialEntry>
+	<Name>Topaasi keskityslinssi</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Topaasi keskityslinssi</Text>
+				</Title>
+				<Icon>
+					<Name>Topaz Focusing Lens</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Aseta laaserenergialähettimeen nostaaksesi siirtonopeutta.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Power Transmission Rate:</Left>
+					<Right>250%</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

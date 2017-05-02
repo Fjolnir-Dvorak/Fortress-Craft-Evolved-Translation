@@ -1,0 +1,27 @@
+<MaterialEntry>
+	<Name>Kaivosvaunun lastausasema</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kaivosvaunun lastausasema</Text>
+				</Title>
+				<Icon>
+					<Name>Minecart Load</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Poistaa materiaalit liitetystä varastohypyttimestä telakoituun kaivosvaunuun.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Minecart Depot</Material>
+					</Target>
+				<Text>Kaivosvaunuvarikko</Text>
+			</Link>
+			</Paragraphs>
+		
+		</Page>				
+	</Pages>
+</MaterialEntry>

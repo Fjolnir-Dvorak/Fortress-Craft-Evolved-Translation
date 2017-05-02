@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Kuljetusputkisuodatin</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kuljetusputkisuodatin</Text>
+				</Title>
+				<Icon>
+					<Name>Transport Pipe Filter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Kuljetusputkisuodatinta voidaan k‰ytt‰‰ suodattamaan mit‰ materiaaleja siihen liitetyst‰ varastohypyttimest‰ p‰‰stet‰‰n kuljetusverkkooon.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

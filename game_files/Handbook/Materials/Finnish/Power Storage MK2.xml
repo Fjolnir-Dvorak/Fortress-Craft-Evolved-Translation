@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>Mallin 2 virtavarastolohko</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mallin 2 virtavarastolohko</Text>
+				</Title>
+				<Icon>
+					<Name>PowerStorageBlockT2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Mallin 2 virtavarastolohko voi varata 1500 energiaa. Se ottaa energiaa liitetyist‰ voimalaloista ja antaa sit‰ kiinnitetyille koneille tai voimasiirtimille. Monet virtavarastolohkot jakavat energiaa kesken‰‰n mutta t‰m‰ ei ole tehokas tapa siirt‰‰ energiaa muutamaa palikkaa pidemm‰lle. T‰h‰n tulisi k‰ytt‰‰ laserenergial‰hettimi‰.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Energiaa voi ottaa virtavarastolohkosta painamalla 'ota' nappia (oletus 'Q') ja lis‰t‰ k‰ytt‰m‰ll‰ 'vuorovaikuta' nappia (oletus 'E').</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Virtakapasiteetti:
+					Maksimivirransiirtonopeus:</Left>
+					<Right>1500
+					rajaton</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

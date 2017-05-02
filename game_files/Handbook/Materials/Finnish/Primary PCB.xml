@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>P‰‰piirilevy</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>P‰‰piirilevy</Text>
+				</Title>
+				<Icon>
+					<Name>Primary PCB</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Tinapohjainen piirilevy tehd‰‰n tinakeloista piirilevynkokoajassa.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

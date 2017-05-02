@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Peruspiirilevy</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Peruspiirilevy</Text>
+				</Title>
+				<Icon>
+					<Name>Basic PCB</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Kuparipohjainen piirilevy tehd‰‰n kuparikeloista piirilevykokoajassa.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

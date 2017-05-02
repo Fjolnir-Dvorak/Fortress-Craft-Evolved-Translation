@@ -1,0 +1,25 @@
+<MaterialEntry>
+	<Name>Muoviryyni</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Muoviryyni</Text>
+				</Title>
+				<Icon>
+					<Name>Plastic Pellet</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Muovia voi tehd‰ Jalostusreaktiosammiossa biomassasta. Niit‰ k‰ytet‰‰n suihkumoottorien rakentamisessa.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Refinery Controller</Material>
+					</Target>
+					<Text>Jalostamoohjain</Text>
+				</Link>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Johtava piirilevy</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Johtava piirilevy</Text>
+				</Title>
+				<Icon>
+					<Name>Conductive PCB</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Kultapohjainen piirilevy tehd‰‰n kultakeloista piirilevyn kokoajassa.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

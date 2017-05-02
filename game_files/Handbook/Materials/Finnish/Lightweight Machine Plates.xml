@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Kevyt konelaatta</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kevyt konelaatta</Text>
+				</Title>
+				<Icon>
+					<Name>Lightweight Machine Plates</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Kevyttä metallilevyä käytetään kevyissäö esineissä.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

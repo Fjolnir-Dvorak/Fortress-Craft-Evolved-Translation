@@ -1,0 +1,29 @@
+<MaterialEntry>
+	<Name>Tukkuvarastohakuportti</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tukkuvarastohakuportti</Text>
+				</Title>
+				<Icon>
+					<Name>Mass Storage Output Port</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Aseta t‰m‰ palikka tukkuvarastolohkon viereen hakeaksesi esineit‰ tukkuvarastosta. Haettava esine pit‰‰ k‰sin m‰‰ritt‰‰. Jos m‰‰ritetty esine on saatavilla tukkuvarastosta robotti hakee sen yksi kerrallaan ja asettaa sen sis‰‰nrakennetulle kuljettimelle.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Vinkkej‰ ja temppuja!</Text>
+				</Header>
+				<Paragraph><Text>Ole tietoinen t‰m‰n palikan suunnasta! Kuten tavallinen kuljetin se liikuttaa tavaraa tiettyn suuntaan.</Text></Paragraph>
+				<Paragraph><Text>Asettaaksesi haettavan esineen pid‰ haluttua esinett‰ pikapalkissa, katso hakuporttia ja paina 'E'</Text></Paragraph>
+				<Header>
+					<Text>Varoitus!</Text>
+				</Header>
+				<Paragraph><Text>T‰ll‰ ei ole mit‰‰n tekemist‰ varastohypyttimen kanssa!</Text></Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>
+

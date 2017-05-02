@@ -1,0 +1,37 @@
+<MaterialEntry>
+	<Name>Monimutkainen koekapseli</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Monimutkainen kokeilukapseli</Text>
+				</Title>
+				<Icon>
+					<Name>ResearchPod_Complex</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Monimutkaista koekapselia k‰ytet‰‰n laboratoriossa tutkimuksen ja kehitysprojektien tekemiseen. T‰m‰ kapselit tehd‰‰n litiumista. Lis‰tietoa laboratoriotutkimuksesta seuraavasta oppaasta.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratoriotutkimus</Text>
+				</Link>
+				<Spacer />
+				<Paragraph>
+					<Text>Lis‰tietoa koekapselien tekemisest‰ seuraavassa oppaassa.</Text>
+				</Paragraph>				
+				<Link>
+					<Target>
+						<Chapter>experimental pods</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Koekapselit</Text>
+				</Link>		
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Tinaputki</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tinaputki</Text>
+				</Title>
+				<Icon>
+					<Name>Tin Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksinkertainen tinaputki thedään tinaharkoista putkenvenytysasemalla.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

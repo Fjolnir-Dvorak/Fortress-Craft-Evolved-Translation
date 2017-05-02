@@ -1,0 +1,26 @@
+<MaterialEntry>
+	<Name>Kristallikuituverkko</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kristallikuituverkko</Text>
+				</Title>
+				<Icon>
+					<Name>Crystal Fiber Mesh</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>K‰ytt‰m‰ll‰ kehittyneit‰ k‰sittelytekniikoita on kristalliesiintymi‰ voi nyt yhdist‰‰ molekyylitasolla. T‰m‰ uusi verkko pystyy kest‰m‰‰n kuumutta ja painetta. T‰m‰ materiaali tehd‰‰n kristalliverkonkutojassa ja on p‰‰vaatimus geotermisen voimalan putkissa.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Mesh Weaver</Material>
+					</Target>
+					<Text>Kristalliverkkokutoja</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,36 @@
+<Chapter>
+	<Handle>advanced research</Handle>
+	<Title>Kehittynyt tutkimus</Title>
+	<Icon>Laboratory Component</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kehittynyt tutkimus</Text>
+				</Title>
+				<Icon>
+					<Name>Laboratory Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Olemme nyt suunnitelleet laboratorion ja kokoamiskoneet koekapseleille sen täyttämiseksi .</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Laboratoriota tarvitaan kehittyneempien projektien tutkimiseen, mikä parantaa teknologiatasoa avaamalla uusia projekteja ja reseptejä. Kaikenkaikkiaan 27 laboratorio-osaa tarvitaan (valmistetaan kolmessa 9 osan pinoissa) ja ne täytyy rakentaa 3 kertaa 3 kertaa 3 asetelmaan.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Lisätietoa laboratorion käytöstä löytyy seuraavasta oppaasta.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratoriotutkimus</Text>
+				</Link>				
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

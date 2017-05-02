@@ -1,0 +1,47 @@
+<Chapter>
+	<Handle>T4_start</Handle>
+	<Title>J‰‰t‰v‰ tehdas!</Title>
+	<Icon>Local Life Forms</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>J‰‰t‰v‰ tehdas</Text>
+				</Title>
+				<Icon>
+					<Name>MagmaBore Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nyt t‰m‰ tutkmus on valmis ja voimme l‰hte‰ rakentamaan kylm‰luolailmastonhallintakeskusta (KLIHK). Meid‰n t‰ytyy rakentaa t‰m‰ kylm‰luolaan, syˆtt‰‰ sille virtaa ja sitten sen pit‰isi yksinkertaisesi, hitaasti, muuttaa luola mahtavaksi palmuiseksi alueeksi, mihin voimme asettua kunnolla ja odottaa pelastusta.</Text>  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>T‰m‰ uusi kone on huomattavasti kehittyneempi (ja herkempi!) kuin vanha KV - pit‰isi olla mahdollista suunnitella, tutkia ja rakentaa paljon suurempia, nopeampia ja monimutkaisempia louhinta- ja resurssikoneita. Ensinn‰kin tarvitsemme kehittyineit‰ materiaaleja ja t‰h‰n tarvitsemme erikoiskoneen superkovien malmien k‰sittelyyn.</Text>  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Jos rakennamme kovakiviraapijan sopivalle 3x3 palalle kromia ja molybdeeni‰, meid‰n pit‰isi pysty‰ rakentamaan uudentyppinen pora. Nanohajottimet ovat ihanteellisia tekem‰‰n tasaisia pintoja tarvittaessa.</Text>  
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Hard Rock Grinder</Material>
+					</Target>
+					<Text>Kovakiviraapija</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>NanoDisintegrator</Material>
+					</Target>
+					<Text>Nanohajottaja</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>CCCCC_Placement</Material>
+					</Target>
+					<Text>Kylm‰luolailmastonhallintakeskus</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

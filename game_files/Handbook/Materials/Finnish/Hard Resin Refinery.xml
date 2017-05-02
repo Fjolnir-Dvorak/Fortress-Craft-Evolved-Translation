@@ -1,0 +1,49 @@
+<MaterialEntry>
+	<Name>Nestehartsijalostin</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Nestehartsijalostin</Text>
+				</Title>
+				<Icon>
+					<Name>Liquid Resin Refiner</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+
+				<Paragraph>
+					<Text>Tämä on viimeinen askel kovan hartsin, jota pesämielet erittävät ympärilleen, käytössä ja raivauksessa.
+					</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>
+					 </Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Muuntaksesi kova hartsi kulutetuksi kovaksi hartsiksi käytä laaserhartsikulutinta.
+					</Text>
+				</Paragraph>
+ 
+ 				<Link>
+					<Target>
+						<Material>Laser Resin Ablator</Material>
+					</Target>
+					<Text>Laaserhartsikulutin</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Laser Resin Liquifier</Material>
+					</Target>
+					<Text>Laaserhartsinesteytin</Text>
+				</Link>
+					<Link>
+					<Target>
+						<Material>Refined Liquid Resin</Material>
+					</Target>
+					<Text>Jalostettu nestehartsi</Text>
+				</Link>
+
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

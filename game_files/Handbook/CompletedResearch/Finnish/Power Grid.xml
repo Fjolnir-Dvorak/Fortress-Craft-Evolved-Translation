@@ -1,0 +1,38 @@
+<Chapter>
+	<Handle>T1 Power</Handle>
+	<Title>Voimaverkko</Title>
+	<Icon>Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Voimaverkko</Text>
+				</Title>
+				<Icon>
+					<Name>Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nyt meill‰ on uusi tapa tehd‰ ja kuljettaa energiaa. T‰m‰ projekti kehitti myˆs p‰ivityksi‰ AVUTIN:lle ja uuden koneen, ainesiirt‰j‰n, joka pystyy kaukosiirt‰m‰‰n materiaaleja yhdest‰ varastohypyttimest‰ toiseen.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Polttovoimala</Text></Header>
+				<Icon>
+					<Name>Pyrothermic Generator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>T‰m‰ kone muuttaa palavat resurssit liitetyst‰ varastohypyttimest‰ virraksi. Se vaatii paljon raikasta ilmaa joten se menett‰‰ tehokkuutta syvyyden myˆt‰.</Text>
+				</Paragraph>
+				<Header><Text>Laaserenergial‰hetin</Text></Header>
+				<Icon>
+					<Name>Laser Energy Transmitter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Aseta voimalan tai akun viereen l‰hett‰‰ksesi voimaa jopa 64 metrin p‰‰h‰n akkuun, virran kuluttajaan tai toiseen laaserenergiasiirtimeen. Voimme k‰ytt‰‰ t‰t‰ l‰hett‰‰ksemme voimaa syvempiin louhintaoperaatioihin.</Text>
+				</Paragraph>					
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

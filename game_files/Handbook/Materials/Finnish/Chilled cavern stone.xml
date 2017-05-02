@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Jäähdytetty luolakivi</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Jäähdytetty luolakivi</Text>
+				</Title>
+				<Icon>
+					<Name>Jäähdytetty luolakivi</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Pääpalikkatyyppi -215 and -270 metrin syvyyden välillä. Palikka ei aiheuta kylmää itsessään vaikka luolat josta löydät ne ovat hyvin kylmiä. Voidaan murskata murkaimessa silloin tällöin hyödyllisen malmin löytämiseksi. Palikka voidaan asettaa.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

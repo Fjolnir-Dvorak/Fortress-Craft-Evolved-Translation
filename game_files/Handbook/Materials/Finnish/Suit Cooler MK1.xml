@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Mallin 1 puvunviilennin</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mallin 1 puvunviilennin</Text>
+				</Title>
+				<Icon>
+					<Name>Suit Cooler MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Paljon vahvempi lämpölydin mahdollistaa pävitetyn puvunlämmittimen pitämään käyttäjänsä turvassa reippaasti ylikiehomispisteen lämpötiloissa. Virtakulutus myös kasvaa. Tarvitset vain yhden ja on pidettävä tavaraluettelossa toimiakseen.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

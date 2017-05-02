@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Kuljetinkääntölava</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kuljetinkääntölava</Text>
+				</Title>
+				<Icon>
+					<Name>Conveyor Turntable</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Kuljetinkääntölavalla voidaan yksi linja halkaista kahdeksi tai kolmeksi jakaen resurssit rasan joka linjalle. Varmistaaksesi materiaalin oikean virran vältä asettamasta suoraan varastohypyttimien tai toiseten kääntölavojen viereen.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

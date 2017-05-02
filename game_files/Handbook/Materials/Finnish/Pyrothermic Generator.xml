@@ -1,0 +1,39 @@
+<MaterialEntry>
+	<Name>Polttovoimala</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Polttovoimala</Text>
+				</Title>
+				<Icon>
+					<Name>Pyrothermic Generator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Polttovoimala on aikaisin tapa tehdä virtaa kun olemme kasvaneet keskusvoimalan kykyjen ulkopuolelle. Se etsii liitettyjä palavaa materiaalia sisältäviä varastohypyttimiä ja polttaa niitä tehdäkseen virtaa. Kone itse pystyy varaamaan 1000 energiaa jota se jakaa siihen kiinnitetylle koneelle tai virtavarastolohkolle.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Polttovoimala vaatii suuren määrän happea toimiakseen joten tuuletuksen puute maanalla nopeasti alentaa tehokkuutta syvyyden mukaan. Laserenergiasiirtimien käyttöä energian siirtämiseksi pinnalta louhintatoimintaan tulisi harkita. </Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Virta (runsas):
+					Virta (kitsas):
+					Virtakapasitetti:
+					Maksimivirransiirtonopeus:
+					Polttoaika:
+					Polttoaine:</Left>
+					<Right>9.7 sekunnisa (hiili)
+					3.9 sekunnisa (hiili)
+					1000
+					32 sekunnissa
+					180 sekunttia
+					Puu, hiili.</Right>
+				</TwoColumnParagraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

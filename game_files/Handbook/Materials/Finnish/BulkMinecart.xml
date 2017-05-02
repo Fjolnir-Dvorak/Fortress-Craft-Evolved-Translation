@@ -1,0 +1,131 @@
+<MaterialEntry>
+	<Name>Tukkukaivosvaunu</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tukkukaivosvaunu</Text>
+				</Title>
+				<Icon>
+					<Name>Minecart_T4</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Kaivosvaunut ovat esineiden tukkusiirtoa varten nopeasti.
+
+					T‰m‰ kaivosvaunu on J‰‰tehdaslis‰osan esine.
+					</Text>
+				</Paragraph>
+
+				<Link>
+					<Target>
+						<URL>https://www.patreon.com/Fortresscraft</URL><!-- Full screen, auto-playing URL-->
+					</Target>
+					<Text>Klikkaa t‰st‰ yksityiskohtaiseen tietoon miten tulla Patreon-tukijaksi saadaksesi aikaisen p‰‰syn kaikkiin tuleviin lis‰osiin.</Text>
+				</Link>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Maksimi nopeus:
+					Maksimi varasto:
+					Kiihdytys:
+					</Left>
+					<Right>2m/s
+					50
+					1.0m/s/s
+					</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Kaivosvaunujen k‰yttˆ on suoraviivaista ja yksinkertaisesti laajentaa hypytin -> kuljetin paradigmaa jota on k‰ytetty t‰h‰n asti. Kaivosvaunuja l‰hetet‰‰n kaivosvaunuverkostoosi kaivosvaunuvarikolta.</Text>>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Minecart Depot</Material>
+					</Target>
+					<Text>Kaivosvaunuvarikko</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kaivosvaunu resurssien k‰sittely</Text>
+				</Title>
+
+				<Paragraph>
+					<Text>Kun kaivosvaunut ovat kaivosvaunuverkostossasi ne pys‰htyv‰t lastaus- ja purkuasemilla ja ker‰‰v‰t ja j‰tt‰v‰t kuljetettut resurssit.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Icon>
+					<Name>Minecart Load</Name>
+					<Target><Material>MinecartLoadStation</Material></Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>MinecartLoadStation</Material>
+					</Target>
+					<Text>Kaivosvaunulastaus</Text>
+				</Link>
+				<Icon>
+					<Name>Minecart Unload</Name>
+					<Target><Material>MinecartUnloadStation</Material></Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>MinecartUnloadStation</Material>
+					</Target>
+					<Text>Kaivosvaunupurku</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+			<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Advanced Minecart Controls</Text>
+				</Title>
+				<Spacer/>
+				<Paragraph>
+					<Text>For finer control over your Minecart's movement and ore-carrying, you have a number of tools available for changing behaviour and decision making.</Text>
+				</Paragraph>
+				<Icon>
+					<Name>Minecart Turbo Rail</Name>
+					<Target><Material>Minecart Turbo Rail</Material></Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Turbo Rail</Material>
+					</Target>
+					<Text>Kaivosvaunukiihdytysliuska</Text>
+				</Link>
+				<Spacer/>
+				<Icon>
+					<Name>MinecartBufferFull</Name>
+					<Target><Material>MinecartBufferFull</Material></Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Full Gate</Material>
+					</Target>
+					<Text>T‰ysikaivosvaunuportti</Text>
+				</Link>
+				<Spacer/>
+				<Icon>
+					<Name>MinecartBufferEmpty</Name>
+					<Target><Material>MinecartBufferEmpty</Material></Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Empty Gate</Material>
+					</Target>
+					<Text>Tyhj‰kaivosvaunuportti</Text>
+				</Link>
+				<Spacer/>
+
+		
+			</Paragraphs>
+		</Page>
+	
+	</Pages>
+</MaterialEntry>

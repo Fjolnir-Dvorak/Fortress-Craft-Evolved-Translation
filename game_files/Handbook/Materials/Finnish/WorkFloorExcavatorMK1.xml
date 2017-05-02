@@ -1,0 +1,32 @@
+<MaterialEntry>
+	<Name>Mallin 1 työkerroskaiverrin</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Workfloor Excavator MK1</Text>
+				</Title>
+				<Icon>
+					<Name>>Workfloor Excavator MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Peruskaivosaseman tekeminen on vaivalloista jos se tehdään käsin. Tämä koe raivaa 3 metrin korkean tunnelin 32m säteellä. Se ei vaikuta malmeihin takoittaen että voit käyttää tätä malmilouhimesi vieressä ympäristön raivaamiseen. Avoimet työskentelytilat ovat oivallisia organisoitujen tukikohtien rakentamiseen!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text></Header>
+				<TwoColumnParagraph>
+					<Alignment>Center</Alignment>
+					<Left>Kantama:
+					Virta palikkaa kohden:
+					Tuhoaa malmeja:
+					</Left>
+					<Right>32m
+					64
+					Ei
+					</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

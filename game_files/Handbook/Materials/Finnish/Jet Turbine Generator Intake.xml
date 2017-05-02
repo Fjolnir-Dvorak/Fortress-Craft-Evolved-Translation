@@ -1,0 +1,40 @@
+<MaterialEntry>
+	<Name>Suihkuturbiinin sis‰‰notto</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Suihkuturbiinin sis‰‰notto</Text>
+				</Title>
+				<Icon>
+					<Name>Drain Grate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Suihkuturbiini on kehittyneempi tapa tehd‰ virtaa fossiilisista polttoaineista. Se vaatii korkeaenergist‰ yhdistelm‰polttoainetta jota tehd‰‰n biomassasta jalostamosammiossa.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Rakentaminen</Text></Header>
+				<Paragraph>
+					<Text>Rakentaaksesi suihkuturbiinin aseta 36 koteloosa 3m korkeaksi 4m x 3m kannan pinoksi. Sitten rakenna 3m x 3m sis‰‰notto jompaan kumpaan samankokoiseen sivuun.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Huippuvirta (runsas):
+					Huippuvirta (harva):
+					Virtakapasitetti:
+					Maksimivirtasiirtotahi:
+					Polttoaika:
+					Polttoaine:</Left>
+					<Right>450 sekunnisa (KEYP)
+					182 sekunnissa (KEYP)
+					3000
+					320 sekunnissa
+					480 sekuntia
+					Korkeaenerginen yhdistelm‰polttoaine</Right>
+				</TwoColumnParagraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

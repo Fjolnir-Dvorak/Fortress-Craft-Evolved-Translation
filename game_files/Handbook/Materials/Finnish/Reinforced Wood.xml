@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Vahvistettu puu</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Vahvistettu puu</Text>
+				</Title>
+				<Icon>
+					<Name>Reinforced Wood</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Perusrakennusmateriaali jota voi tuottaa kaikialla ilman valmistusaseman palveluja. Avaa itsevalmistuskäyttöliittymä (oletus 'C') tuottaksesi näitä.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

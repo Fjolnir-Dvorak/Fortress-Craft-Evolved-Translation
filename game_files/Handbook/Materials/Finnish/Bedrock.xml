@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Kallio</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kallio</Text>
+				</Title>
+				<Icon>
+					<Name>Bedrock</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Yksi peruskivi tyypeistä. Voidaan murskata murskaimella mahdollisesti tuottaen hyödyllistä malmia. Tämä palikka voidaan asettaa.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

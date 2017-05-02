@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Teko‰lyliikuttajaohjain</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Teko‰lyliikuttajaohjain</Text>
+				</Title>
+				<Icon>
+					<Name>AI Mover Control</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>T‰m‰ robotti liikuttaa resurssin kerrallaan l‰heisest‰ hypyttimest‰ toiseen nuodattaen hypyttimien "lis‰‰" ja "poista" lupia.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

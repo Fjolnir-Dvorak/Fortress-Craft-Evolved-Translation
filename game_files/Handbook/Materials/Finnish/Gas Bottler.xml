@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Name>Kaasupullotin</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kaasupullotin</Text>
+				</Title>
+				<Icon>
+					<Name>T4_Gas_Bottler</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Kaasupullotin on viimeinen askel hiukkasjalostusprosessissa. Käyttäen yhden hiukkasvaraston säilöttyjä hiu7kkasia se pystyy paketoimaan ne kertakäyttöisiin säiliöihin. Kaasupullotin rakennetaan 3x3x9 asetelmaan.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>T4_Particles</Chapter>
+					</Target>
+					<Text>Hiukkassuodatusjärjestelmä</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Particle Filter</Material>
+					</Target>
+					<Text>Hiukkassuodatin</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Particle Compressor</Material>
+					</Target>
+					<Text>Hiukkaspuristin</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Particle Storage</Material>
+					</Target>
+					<Text>Hiukkasvarasto</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

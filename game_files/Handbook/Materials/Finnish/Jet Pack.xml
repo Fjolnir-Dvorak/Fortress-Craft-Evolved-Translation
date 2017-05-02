@@ -1,0 +1,22 @@
+<MaterialEntry>
+	<Name>Rakettireppu</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Rakettireppu</Text>
+				</Title>
+				<Icon>
+					<Name>Jet Pack</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Olet löytänyt tavan lentää pieniä matkoja. Tämä varmaankin käyttää paljon virtaa...</Text>
+				</Paragraph>			
+				<Paragraph>
+					<Text>Aktivoi painamalla 'J'. Tarvitset vain yhden ja täytyy pitää tavaraluettelossa toimiakseen.</Text>
+				</Paragraph>			
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

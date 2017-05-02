@@ -1,0 +1,29 @@
+<MaterialEntry>
+	<Name>Automatisoitu rakentaja</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Automatisoitu rakentaja</Text>
+				</Title>
+				<Icon>
+					<Name>Auto Builder</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Voi rakentaa tavallisia kuljetin linjoja mihin tahansa pääsuuntaan kun syötetään asetettavia kuljettimia.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Vinkejä ja temppuja!</Text>
+				</Header>
+				<Paragraph><Text>- Tämä kone vaatii melkoisesti virtaaa tomiakseen täydellä nopeudella!</Text></Paragraph>
+				<Paragraph><Text>- Hypytin tarvitaan kuljettimien syöttämiseen.</Text></Paragraph>
+				<Paragraph><Text>- Älä käytä muita palikoita! Ei voi asettaa muita palikoita!</Text></Paragraph>
+				<Header>
+					<Text>Varoitus!</Text>
+				</Header>
+				<Paragraph><Text>- Kuljetinputkihypyttimen liittäminen rakentaa tavallisia juljetinlinjoja ei kuljetusputkia!</Text></Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,33 @@
+<MaterialEntry>
+	<Name>Jalostamoreaktiosammio-osa</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Jalostamoreaktiosammio</Text>
+				</Title>
+				<Icon>
+					<Name>Metal Siding 1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Jalostamo mahdollistaa muukalaisplaneetalta löydettyjen hiilihydraattien yhdistelemisen hyödyllisiksi materiaaleiksi. Toimiakseen vaatii kaksi osaa: Jalostamoohjaimen ja jalostamoreaktiosammion. </Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Refinery Controller</Material>
+					</Target>
+					<Text>Jalostamoohjain</Text>
+				</Link>
+				<Paragraph>
+					<Text>Jalostamoreaktiosammio on iso rakennnus joka rakennetaan reaktiosammio-osapalikoista. Asetettuna täytettyyn 3 kertaa 3 kertaa 3 asetelmaan sammio näyttäytyy isona koneena.
+
+Reaktiosammiossa hiilihydraattien kemiallinen yhdistämisreaktio tapahtuu. Toiimiakseen täytyy olla yhteydessä ohjaimeen. Sammioita voi pinota toistensa päälle ohjaimen ohjatessa kaikkia samalla. Tämä mahdollistaa lineaarisen tuotannon ja virtakulutuksen kasvattamisen ja lopputuotteen varastoimisen. Jokainen sammio voi säilöä 10 valmista tuotetta ennen kuin tila loppuu. Etu monien sammioden käyttämiseen on kalliiden ohjaimien tekemisen välttäminen.
+
+Jokainen sammiota sisältää monta elektronistajohdinta kuin myös kuljetusputkia. Tämän takia sammiolle annettu virta toimiteean myös kiinnitettyhn ohjaimeen. Jalostamon maksimivirtakapasiteetti riippuu yhdistettyjen sammioiden lukumäärästä.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>
+

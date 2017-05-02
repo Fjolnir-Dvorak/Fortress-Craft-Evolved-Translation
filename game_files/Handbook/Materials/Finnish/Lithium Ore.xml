@@ -1,0 +1,23 @@
+<MaterialEntry>
+	<Name>Litiummalmi</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Litiummalmi</Text>
+				</Title>
+				<Icon>
+					<Name>Lithium Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>120 metrin ja alle syvyydestä löydettävä litiummalmi voidaan sulattaa litiumharkoiksi sulattamossa. Litiumharkkoja käytetään yleensä koneissa jotka varastoivat ja kähettävät virtaa.</Text>
+				</Paragraph>				
+				<Spacer/>
+				<Paragraph>
+					<Text>Litiummalmia voi luohia malminluohimella.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

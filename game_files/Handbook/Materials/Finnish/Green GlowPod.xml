@@ -1,0 +1,23 @@
+<MaterialEntry>
+	<Name>Vihre‰ hohtopalko</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Vihre‰ hohtopalko</Text>
+				</Title>
+				<Icon>
+					<Name>Green GlowPod</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>T‰m‰ paikallinen kasvilaji l‰hett‰ tasaista vihre‰‰ hohtoa sen pinnan alla tapahtuvan kemikaalireaktion ansiosta.</Text>
+				</Paragraph>		
+				<Spacer/>
+				<Paragraph>
+					<Text>T‰m‰ kasvi voidaan polttaa virrantuotannossa.</Text>
+				</Paragraph>		
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

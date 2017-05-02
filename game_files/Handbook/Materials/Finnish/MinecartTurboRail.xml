@@ -1,0 +1,110 @@
+<MaterialEntry>
+	<Name>Kaivosvaununkioihdytysliuska</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kaivosvaununkiihdytysliuska</Text>
+				</Title>
+				<Icon>
+					<Name>Minecart</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Minecarts are for Bulk transfers of items at a medium rate.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Specifications</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Max Speed:
+					Max Storage:
+					Acceleration:
+					</Left>
+					<Right>1m/s
+					25
+					0.5m/s/s
+					16
+					15 seconds</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Kaivosvaunujen käyttö on suoraviivaista ja yksinkertaisesti laajentaa hypytin -> kuljetin paradigmaa jota on käytetty tähän asti. Kaivosvaunut asetetaan kaivosvaunuverkostoosi kaivosvaunuvarikolta.</Text>>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Minecart Depot</Material>
+					</Target>
+					<Text>Kaivosvaunuvarikko</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kaivosvaunujen resurssienkäsittely</Text>
+				</Title>
+				<Paragraph>
+					<Text>Kun kaivosvaunu on verkostossasi ne pysähtyvät lastaus- ja purkuasemille ja keräävät ja jättävät kannetut resurssit.</Text>
+				</Paragraph>
+				<Icon>
+					<Name>Minecart Load</Name>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Load Station</Material>
+					</Target>
+					<Text>Kaivosvaunun lastaus</Text>
+				</Link>
+				<Icon>
+					<Name>Minecart Unload</Name>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Unload Station</Material>
+					</Target>
+					<Text>Kaivosvaunun purku</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+			<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kehittyneet kaivosvaunuohjaimet</Text>
+				</Title>
+				<Paragraph>
+					<Text>Kaivosvaunujen liikkeiden ja malmin kantamisten tarkempaan ohjaamiseen on monta työkalua käytöksen ja päätöksenteon vaihtamiseksi.</Text>
+				</Paragraph>
+				<Icon>
+					<Name>Minecart Turbo Rail</Name>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Turbo Rail</Material>
+					</Target>
+					<Text>Kaivosvaununkiihdytysliuska</Text>
+				</Link>
+				<Spacer/>
+				<Icon><Name>MinecartBufferFull</Name></Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Full Gate</Material>
+					</Target>
+					<Text>Täysi kaivosvaunuportti</Text>
+				</Link>
+				<Spacer/>
+				<Icon><Name>MinecartBufferEmpty</Name></Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Empty Gate</Material>
+					</Target>
+					<Text>Tyhjä kaivosvaunuportti</Text>
+				</Link>
+				<Spacer/>
+
+		
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

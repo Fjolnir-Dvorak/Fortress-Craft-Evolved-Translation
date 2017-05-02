@@ -1,0 +1,30 @@
+<MaterialEntry>
+	<Name>SpiderBot-hiukkaskiv‰‰ri</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>SpiderBot-hiukkaskiv‰‰ri</Text>
+				</Title>
+				<Icon>
+					<Name>SpiderBot Defences 1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>T‰m‰ pari olkaliitettyj‰ hiukkaskiv‰‰rej‰ pystyv‰t tuottamaa raskasta vahinoa suurimpiin kohteisiin. Ne t‰ht‰‰v‰t itsen‰isesti ja ‰lykk‰sti ohittavat pienet kohteet keskittyen pomo-luokan kohteisiin.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Vain yksi tarvitaan - ne tulevat kokonaisuutena!</Text>
+				</Header>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>SpiderBot Base Component</Material>
+					</Target>
+					<Text>Lis‰tietoa SpiderBot:sta!</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

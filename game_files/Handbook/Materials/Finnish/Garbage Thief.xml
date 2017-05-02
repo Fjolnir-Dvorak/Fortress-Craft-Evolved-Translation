@@ -1,0 +1,33 @@
+<MaterialEntry>
+	<Name>Roskavaras</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Cyberdyne roskavaras (tm)</Text>
+				</Title>
+				<Icon>
+					<Name>Garbage Thief</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The Cyberdyne roskavaras (tai roskavaras) on yksinkertaisesti malmivaras joka on asetettu poistamaan roskaa tavaraluettelosta malmin sijaan. Kun tätä konetta käytetään yhdessä monen rakennustahnajauhajan kanssa psytyy poistamaan ja käsittelemään roska rakennustahnaksi nopeasti samalla vapauttaen tavaraluettelotilaa. Parhain toiminta kun asetetaan usein käytetyn käytävän lattian tilalle ja yhdistetään sopivaan ulostulon käsittelyjärjestelmään.
+
+					Yksinkertaisesti rakenna uuden uusi roskavaras (tm) 3x3 asetelmaan ja anna vain 5 virtaa per palikksa ja sitten seiso siinä ja anna SEN tehdä kova työpuolestasi!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Roskan keräystahti:
+					Sisäinen varasto:
+					Virrankäyttö:
+					</Left>
+					<Right>jopa 3 300/minuutissa!
+					100 yksikköä roskaa!
+					vain 5 virtaa roskaa kohden!
+					</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

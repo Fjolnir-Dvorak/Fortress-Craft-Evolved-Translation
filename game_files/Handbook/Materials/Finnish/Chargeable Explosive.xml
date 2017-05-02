@@ -1,0 +1,42 @@
+<MaterialEntry>
+	<Name>Ladattava r‰j‰hde</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ladattava r‰j‰hde</Text>
+				</Title>
+				<Icon>
+					<Name>Chargeable Explosive</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ladattava pommi lataustason mukaan laajenevalla s‰teell‰. T‰m‰ r‰j‰hde voidaan latadata viereisest‰ virtavarastointilohkosta, voimalasta tai laaserenergial‰hettimell‰. Se s‰ilytt‰‰ latauksensa kannettaessa vaihtoehtoiseen paikaan. jolloin se voidaan r‰j‰ytt‰‰ vaihtoehtoista vuoropaikutus nappia (oletus 'Shift+E').</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Joka kerta kun varastoitu virtaa kertautuu 10:ll‰ lataustaso nousee yhdell‰! </Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Vihjeit‰ ja temppuja!</Text>
+				</Header>
+				<Paragraph><Text>- T‰m‰ kone tarvitsee enev‰ss‰ m‰‰rinm virtaa!</Text></Paragraph>
+				<Paragraph><Text>- Taso 1 = 100 energiaa.</Text></Paragraph>
+				<Paragraph><Text>- Taso 2 = 1000 energiaa.</Text></Paragraph>
+				<Paragraph><Text>- Taso 3 = 10 000 energiaa.</Text></Paragraph>
+				<Paragraph><Text>- Taso 4 = 100 000 energiaa.</Text></Paragraph>
+				<Paragraph><Text>- Taso 5 = 1 000 000 energiaa.</Text></Paragraph>
+				<Paragraph><Text>- Taso 6 = 10 000 000 energiaa.</Text></Paragraph>
+				<Paragraph><Text>- Ja niin eddelleen!</Text></Paragraph>
+				<Paragraph><Text>- V‰litasot eiv‰t anna lis‰r‰j‰hdyss‰dett‰!</Text></Paragraph>
+				<Paragraph><Text>- Tason 6 savuttaminen nykyisill‰ toteutetuilla enegiatuotannolla on jo aikamoinen haaste!</Text></Paragraph>
+				<Header>
+					<Text>Varoitus!</Text>
+				</Header>
+				<Paragraph><Text> Sytytyslanka on lyhyt! Tukikohtasi r‰j‰ytt‰minen vahingossa on juttu!</Text></Paragraph>
+	
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

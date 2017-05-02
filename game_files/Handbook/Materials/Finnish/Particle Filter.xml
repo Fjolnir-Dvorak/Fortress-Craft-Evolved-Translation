@@ -1,0 +1,44 @@
+<MaterialEntry>
+	<Name>Hiukkassuodatin</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Hiukkassuodatin</Text>
+				</Title>
+				<Icon>
+					<Name>Particle Filter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Hiukkassuodatin on kehittynyt versio pukusi j‰rjestelm‰st‰. K‰ytt‰m‰ll‰ prmitiivist‰ teknologiaa jota aikaisemmin k‰ytimme myrkkyluolissa selviytymiseen voimme nyt k‰ytt‰‰ tiettyjen aineosien poimimiseksi eri luolien paksuista kaasuista. Hiukkassuodatin rakennetaan 5x3x5 asetelmaan.</Text>
+				</Paragraph>
+					<Spacer/>
+				<Link>
+					<Target>
+						<Chapter>T4_Particles</Chapter>
+					</Target>
+					<Text>Hiukkassuodatusj‰rjestel‰</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Particle Compressor</Material>
+					</Target>
+					<Text>Hiukkaspuristin</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Particle Storage</Material>
+					</Target>
+					<Text>Hiukkasvarasto</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Gas Bottler</Material>
+					</Target>
+					<Text>Kaasupullotin</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

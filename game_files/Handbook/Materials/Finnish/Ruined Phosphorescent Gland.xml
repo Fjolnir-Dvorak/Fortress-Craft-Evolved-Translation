@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Pilattu fosforenssirauhanen</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Pilattu forforenssi rauhanen</Text>
+				</Title>
+				<Icon>
+					<Name>WaspGlandRuined</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nämä paikallisten lentävien eliöiden rauhaset näyttävät soveltuvan virranvarastointiin. Tämä on liian vaurioitunut käyttöön.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

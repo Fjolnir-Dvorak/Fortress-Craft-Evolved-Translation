@@ -1,0 +1,32 @@
+<MaterialEntry>
+	<Name>Lämpöjohtava putki</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Lämpöjohtava putki</Text>
+				</Title>
+				<Icon>
+					<Name>Heat Conducting Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Lämpöjohtavat putket yhdistävät kupari putkien nesteen kuljetusvoiman ja kristallikuituverkon lämmön ja paineen kestävyyden. Käyttämällä tätä uuden tyyppistä putkea olemme kehittäneet geotermistä voimalaa siihen pisteeseen että se on nyt käytännöllinen ratkaisu koneidemme kasvavaan virrankulutukseen.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Pipe Coater</Material>
+					</Target>
+					<Text>Putken pinnoitin</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Geothermal Generator comp.</Material>
+					</Target>
+					<Text>Geotermisen voimalan osa</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

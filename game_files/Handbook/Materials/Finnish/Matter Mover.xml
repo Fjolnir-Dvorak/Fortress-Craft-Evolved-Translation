@@ -1,0 +1,33 @@
+<MaterialEntry>
+	<Name>Aineensiirrin</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Aineensiirrin</Text>
+				</Title>
+				<Icon>
+					<Name>Matter Mover</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Aineensiirtimet ovat korkeanopeuksinen ja -energinen tapa liikutta resursseja kaivosoperaatiossasi. Ne ovat yksinkertaisia k‰ytt‰‰; anna niille virtaa niinkuin mille tahansa muullekin koneelle ja aseta ne varastohypyttimen viereen kohti p‰‰m‰‰‰r‰ varastohypytint‰. Aineensiirron hinta ei riipu et‰isyydest‰. N‰kˆyhteys kohde hypyttimeen tarvitaan.</Text>
+				</Paragraph>				
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Maksimkuljetusnopeus:
+					Vaadittu virta:
+					Maksimivirransiirtonopeus:
+					Virtacapaciteetti:
+					Maksimikantama:</Left>
+					<Right>300 esinett‰ minuutissa
+					64 esinett‰ kohti
+					256 /s (tahkoa kohti)
+					512
+					64 metri‰</Right>
+				</TwoColumnParagraph>	
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

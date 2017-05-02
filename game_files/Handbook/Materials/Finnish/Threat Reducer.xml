@@ -1,0 +1,41 @@
+<MaterialEntry>
+	<Name>Uhan laannutin</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Uhanlaanntuin</Text>
+				</Title>
+				<Icon>
+					<Name>Threat Reducer</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Paikalliset villieläimet näyttävät reagoivan negatiivisesti teollisten toimiemme ilmaan päästäviin sivutuotteisiin. Nykyisen ja tulevan konfliktin tyynnyttämiseksi on kehitetty kone vähentämään koneiston vaikutus luontoon. Uhanlaannutin pystyy laannuttamaan voimaloiden electromagneettiset allot ja puhdistamaan ilmakehän saasteista. Kone käyttää 5 virtayksikköä sekunnisa tähän tehtävään.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Yrittäessämme ymmärtää paikallisten reaktioita teollistumiseemme uusi organismien kemialliseen ja elektromagneettiseen herkkyyteen perustuva järjestelmä vaikutuksemme mittaamiseksi on luotu. Tämä järjestelmä mittaa näitä tekijöitä uhkayksiköissä ja voidaan lukea uhkaluotaimesta. Jokainen toimiva uhanlaannutin vähentää uhkaa noin 50 uhkayksiköllä. Tarpeeksi suurella määrällä näitä tuottettu uhka voidaan täysin mitätöidä riippumatta kuinka suureksi operaatiomme tällä planeetalla kasvavat.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Threat Scanner</Material>
+					</Target>
+					<Text>Uhkaluotain</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Threat Agitator</Material>
+					</Target>
+					<Text>Uhan yllytin</Text>
+				</Link>
+				<Spacer/>
+				<Header><Text>Tekniset tiedot</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Vaatii virtaa:</Left>
+					<Right>Kyllä</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

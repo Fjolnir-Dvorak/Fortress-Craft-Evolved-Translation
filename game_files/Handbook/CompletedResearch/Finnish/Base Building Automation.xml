@@ -1,0 +1,25 @@
+<Chapter>
+	<Handle>T1 assist machines</Handle>
+	<Title>Automatisoitu tukikohdanrakennus</Title>
+	<Icon>Base Building Automation</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Automatisoitu tukikohdanrakennus</Text>
+				</Title>
+				<Icon>
+					<Name>Base Building Automation</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Meillä on nyt laaja valikoima uusia koneita tukikohtamme automatisointiin. Käytä murskainta jauhaaksesi hyödytön kivi vaihdoksi mahdollisuudelle sattuinnaisesti löytää höydyllistä malmia. Auto-kaivuri kaivaa kaivantoja yllensä, kun taas itse-rakentaja rakentaa pitkiä hihnoja meille.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Käytä hissejä kulkeaksesi turvallisesti pinnan ja syvenpien kaivosten välillä. Käytä räjähteitä raivataksesi alueita tai tuhotaksesi vihamielisiä kohteita.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

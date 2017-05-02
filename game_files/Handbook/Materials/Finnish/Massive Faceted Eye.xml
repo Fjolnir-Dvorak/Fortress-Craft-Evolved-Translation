@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Valtava verkkosilmä</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Valtava verkkosilmä</Text>
+				</Title>
+				<Icon>
+					<Name>WaspEyeMassive</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Paikallisen lentävän elioön silmästä saa hyvän optisen osan. Tämän täytyy olla yksi suurimmista lajeista johon olemme törmänneet ja se on hyvässä kunnossa käytettäväksi.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

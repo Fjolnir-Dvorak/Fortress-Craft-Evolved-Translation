@@ -1,0 +1,23 @@
+<MaterialEntry>
+	<Name>Kehittynyt konelohko</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kehittynyt konelohko</Text>
+				</Title>
+				<Icon>
+					<Name>Advanced machine block</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>P‰‰rakennuslohko kehittyineiden koneiden tekemiseen.</Text>
+				</Paragraph>
+				<Header>
+					<Text>N‰m‰ palikat ovat p‰‰osia tiettyihin monipalikkakoneisiin.</Text>
+				</Header>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>
+

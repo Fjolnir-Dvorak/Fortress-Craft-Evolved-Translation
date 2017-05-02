@@ -1,0 +1,23 @@
+<MaterialEntry>
+	<Name>Hohtosieni</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Hohtosieni</Text>
+				</Title>
+				<Icon>
+					<Name>GlowShroom</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Hohtava sieni jota löytyy planeetan pinnalta. Älä syö!</Text>
+				</Paragraph>		
+				<Spacer/>
+				<Paragraph>
+					<Text>Tämäkasvi voidaan polttaa virrantuotannossa!</Text>
+				</Paragraph>		
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

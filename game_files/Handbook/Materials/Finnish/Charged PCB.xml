@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Ladattu piirilevy</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ladattu piirilevy</Text>
+				</Title>
+				<Icon>
+					<Name>Charged PCB</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Litiumpohjainen piirilevy tehd‰‰n litiumkeloista piirilevykokoajassa.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

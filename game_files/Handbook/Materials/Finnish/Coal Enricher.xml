@@ -1,0 +1,26 @@
+<MaterialEntry>
+	<Name>Orgaanien hiilen rikastaja</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Orgaaninen hiilen 
+rikastaja</Text>
+				</Title>
+				<Icon>
+					<Name>Coal Enricher</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Orgaaninen hiilen rikastaja k‰ytt‰‰ pient‰ m‰‰r‰‰ virtaa lis‰t‰kseen hiilen tuottamaa virtaa polttovoimalassa. Orgaaninen hiilen rikastaja k‰ytt‰‰ 0.1 e/s 15 sekunnin ajan k‰sitell‰kseen tavallisen hiilen rikastetuksi hiileksi. Lis‰parannuksia voisi kyll‰ saavuttaa.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Crystal Coal Infuser</Material>
+					</Target>
+					<Text>Kristallihiilirikastin</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>
